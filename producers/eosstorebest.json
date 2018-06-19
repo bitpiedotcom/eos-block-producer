@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSStore",
+            "zh_CN": "EOSStore",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nBeijing, China\n\nServer Configuration:\nWe provide Master-Slave structure of node. There are two stages in total. We will step in the second stage once the workload reached the 70% of capacity.\n\nFirst Stage\nMaster(model: AWS x1e.16xlarge)\nSlave(model: AWS x1e.8xlarge)\n\nSecond Stage\nMaster(model: AWS x1e.32xlarge)\nSlave(model: AWS x1e.16xlarge)\n\nTest node\nvCPU: 16\nMemory: 128G\nBandwidth: 1Gb\nStorage: 10Tb, AWS EFS\nLocation: Hong Kong\n\nGroup Introduction:\nEos.Store Team is consisted of a group of steadfast Eos believers, blockchain fanciers who are devoted to working with EOS holders for an efficient decentralized community featuring freedom, openness, equality and mutual trust. \n\nFind us:\nGitHub\nhttps://github.com/eosstore\nTwitter\nhttps://twitter.com/StoreEos\nFacebook\nhttps://www.facebook.com/profile.php?id=10002\nWechat Public Account:\nEosStore\nMedium\nhttps://steemit.com/@eos.store\nSteemit\nhttps://steemit.com/@eos.store",
+            "zh_CN": "节点位置\nBeijing, China\n\n服务器配置\nwe provide Master-Slave structure of node. There are two stages in total. We will step in the second stage once the workload reached the 70% of capacity.\n\nFirst Stage\n\nMaster(model: AWS x1e.16xlarge)\nSlave(model: AWS x1e.8xlarge)\n\nSecond Stage\n\nMaster(model: AWS x1e.32xlarge)\nSlave(model: AWS x1e.16xlarge)\n\nTest node\n\nvCPU: 16\nMemory: 128G\nBandwidth: 1Gb\nStorage: 10Tb, AWS EFS\nLocation: Hong Kong\n\n团队介绍\nEos.Store团队是由一群Eos坚定信仰者、区块链技术发烧友组成,立志与EOS持有者一起共建一个自有、开放、平等、互信的高效去中心化社区。同时作为超级节点的竞选者之一,期望可以成为其守护者以及EOS生态繁荣的建设者,并致力构造一个开放、多元、平衡的应用生态。\n联系方式\nGitHub\nhttps://github.com/eosstore\nTwitter\nhttps://twitter.com/StoreEos\nFacebook\nhttps://www.facebook.com/profile.php?id=10002\n微信公众号\nEosStore\nMedium\nhttps://steemit.com/@eos.store\nSteemit\nhttps://steemit.com/@eos.store",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosstorebest",
+  "public_key": "EOS8FrjiXUDAFc8pSQkFejk1zRxyALnqPbYdJsqhAwKMya3tY7TaU",
+  "website": "http://www.eos.store/",
+  "country": "China",
+  "logo": "logo-eosstorebest.jpg"
+}

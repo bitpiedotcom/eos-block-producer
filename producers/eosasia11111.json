@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOS Asia",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": "节点位置\nSeoul, Singapore, Tokyo\n\n服务器配置\n主要和备用块生产者节点：\n网络10 Gbps（最高25 Gbps）\nAWS Shield（受管DDoS保护）\n英特尔至强8 vCPU / 256GB RAM / 1TB SSD\n公开完整节点：\n网络10 Gbps（最高25 Gbps）\nAWS Shield（受管DDoS保护）\n英特尔至强4 vCPU / 256GB RAM / 1TB SSD\nTestnet：\n网络1G高共享网络\nAWS Shield（受管DDoS保护）\n英特尔至强4 vCPU / 32GB RAM / 128GB SSD\n\n团队介绍\n我们是BP候选人EOS Asia，拥有世界级技术团队和经验丰富的区块链Dapp开发人员。作为亚洲最具国际和技术性的Block Producer候选人，我们汇集了来自中国，韩国，日本，香港，东南亚等地的EOS超级粉丝。\n\nEOS亚洲团队，核心价值观，当前进展，未来发展以及对社区的贡献。我们也将分享我们对EOS生态系统未来的理解和信念。\n\nEOS Asia的亮点：\n\n世界级的技术团队（Y Combinator，阿里云MVP，在各种技术会议上演讲）、大部分国际团队（中国，欧洲，美国和韩国）、致力于创建主流EOS DApps。",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosasia11111",
+  "public_key": "EOS76gG6ATpqfVf5KrVjh3f4JAa4EKzAwWabTucNQ4Xv2TmVAj9bN",
+  "website": "https://www.eosasia.one/",
+  "country": "中国",
+  "logo": "logo-eosasia11111.png"
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOS Rio",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": "团队介绍\nEOS Rio致力于建立区块生产者基础设施，并在巴西和南美洲发展EOS社区。\nRede Entropia领导EOS Rio表示，Rede Entropia是一家人工智能和区块链实验室，Venture Builder和Startup Accelerator。其目的是与人员和企业合作，创造积极影响社会的创新解决方案。\n联系方式\nGitHub\nhttps://github.com/eosrio\nTelegram\nhttps://t.me/eosrio\nSteemit\nhttps://steemit.com/@eosrio\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosriobrazil",
+  "public_key": "EOS7RioGoHQnhv2fJEiciP9Q7J8JgfJYFcyofVkmCqMop8Q1PzgqP",
+  "website": "http://eosrio.entropia.in/",
+  "country": "巴西",
+  "logo": "logo-eosriobrazil.jpg"
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS SOCAL",
+            "zh_CN": "EOS SOCAL",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Configuration of Servers\nMain activity\n•Location：California\n•CPU（32core，2.00 GHz of each）\n•1st：4 core Intel Xeon E7-4820 v2\n•2nd，3rd，4th：Intel Xeon E7-4820 v2\n•RAM：2 TB RAM\n•the first disk：10 TB SATA SED\n•Network：10 Gbps\n\nBackup\nLocation：California\nPlan：AWS x1e.16xlarge\nRAM：1.952TB\nvCPU：64\nHard disk：1.920 TB SSD\nNetwork：10 Gbps\nGroup Introduction\nEOSoCal is a group founded in Nov 2017 with a mission of supporting and promoting the successful launch and viability of the EOS.IO software and community, operating out of Southern California. \n\nOur goal is to contribute to the overall success of the EOS.IO decentralized ecosystem from this area of the world, helping masses preserve life, liberty and property for a better world.\n\nEOSIO software is a free, open source software developed by block.one to serve as a platform for quickly and easily developing, running and governing decentralized applications running on community launched & operated network.",
+            "zh_CN": "服务器配置\n主要活动\n•地点：加州\n•CPU（32核，每个2.00 GHz）\n•1st：四核Intel Xeon E7-4820 v2\n•第2，第3，第4：Intel Xeon E7-4820 v2\n•RAM：2 TB RAM\n•第一块硬盘：10 TB SATA SED\n•上行链路端口速度：10 Gbps\n\n次要活动和备份\n地点：美国西部，加州\n计划：AWS x1e.16xlarge\nRAM：1.952TB\nvCPU：64\n硬盘：1.920 TB SSD\n上行链路端口速度：10 Gbps\n\n团队介绍\nEOSoCal成立于2017年11月的团体，在南加州运营。主要支持和促进EOS.IO软件和社区的成功发布和可行性。\n我们的目标是为世界这个地区的EOS.IO分散式生态系统的整体成功做出贡献，帮助大众保护生命，自由和财产，建设一个更美好的世界。\n通过以下方式实现我们的目标：\n我们是超级节点竞选团队，为EOS区块链贡献可靠和可扩展的区块生产，并为社区贡献回报。现在正在做符合EOS项目的分配开发资源，包括支持，资金，设计和编程。EOS.IO的理念创造更美好的世界。\n通过提供的教育内容和计划的研讨会帮助教育社区，从初学者到高级用户使用EOS.IO开源软件。\n通过传播、支持社区和分发内容，帮助他人发现和采用EOS.IO平台。去中心化应用程序的开发者即将发布项目。我们希望能够改变十亿人的生活，正如布罗克皮尔斯所描述的那样，通过向EOS持有者提供“空投” token。独特价值主张：\n我们的设施开放，用于审计和实地考察。因为是一家自筹资金的机构，不需要向投资者汇报奖励。为援助权力下放提供独立贡献，目标是通过块生产者奖励和问责制来充分透明。",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eossocalprod",
+  "public_key": "EOS777j1G9Xmm63PLhVL5mvKLhGBmUznC3CvNKWeJXnGE3RqygfYu",
+  "website": "https://eosocal.io",
+  "country": "America",
+  "logo": "logo-eossocalprod.png"
+}

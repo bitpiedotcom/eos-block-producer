@@ -1,0 +1,17 @@
+{
+  "name": { "en": "HelloEOS",
+            "zh_CN": "HelloEOS",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Configuration of Servers\nBP Servers (1 livenet, 1 standby): 16 Cores; 256G RAM; 1T SSD Hard Drive \n• API Server: 16 Cores; 256G RAM; 1T SSD Hard Drive \nWhen visits grow, we will upgrade our servers, expand the bandwidth, preparing to scale as necessary. \nGroup Introduction\nWe are the earliest to establish domestic EOS community. As a forerunner, HiBlockchain have been producing and interpreting articles of EOS news and technical analysis ever since, spreading the word, helping the community to better understand EOS from beginners to advanced users.\nWe have provided technical support for 3 active witness nodes on BitShares blockchain. Meanwhile, we are professionals on YOYOW blockchain in aspects of server maintenance.",
+            "zh_CN": "服务器配置\n在测试网和早期阶段，当区块链还较小且负载压力仍然较低时，我们采用基于云的服务器方式：·\nBP服务器(1台livenet，1台备用)：\n16芯；256 G RAM；1 TSSD硬盘驱动器。\n\nAPI服务器：\n16个核心；256gRAM；1T固态硬盘\n\n团队介绍\nHelloEOS，在中国的区块生产者团队之一。具有开发和维护Graphene区块链的能力，以及拥有3万多个用户基础的社区，HelloEOS将会最大限度地帮助实现有效的社区治理，和一个充满活力、健康的EOS区块链生态系统。\n\nHelloEOS最早将EOS引入华语社区的群体，吸引了相当多的人，从而形成了最早的国内EOS社区。作为比特股的成员，HellEOS多年来一直是Bytemaster的坚定支持者。自从比特股1.0启动以来，我们就一直专注于操作和维护节点服务器并提供技术，而比特股区块链网络支持至少有3名活跃的独立操作者。\n\nHelloEOS团队在梓岑和Alex的带领下，创建和管理了几个社交媒体集团，不仅介绍了EOS，还翻译了许多技术和分析文章，帮助社区更好地理解了EOS。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "helloeoscnbp",
+  "public_key": "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
+  "website": "https://www.helloeos.com.cn/",
+  "country": "China",
+  "logo": "logo-helloeoscnbp.jpg"
+}

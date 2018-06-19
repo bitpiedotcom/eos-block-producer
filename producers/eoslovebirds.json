@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSLove",
+            "zh_CN": "EOSLove",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nSingapore and US\nConfiguration of Servers\nActive Block Producer：m5.4xlarge，16 core CPU，64GB RAM and 300GB HD（east America）\nStandby Block Producer：m5.4xlarge，16core CPU，64GB RAM and 300GB HD（South-East Asia）\nWe will enlarge to 128 core CPU，2 TB RAM，8 TB hard disk and 10 GB\n\nGroup Introduction\nEOSLOVE Is founded on the principles of equality, fraternity and a kinship that we all share at various points in our life with the others we live with. But many have never made a concerted effort to assert themselves to make a difference in other people's lives - especially the most needy and deprived of the society. A lack of decentralized means, lack of transparency and the lack of trust of various middle parties involved has been a problem here as well.\nBehind all the glitter and glory of technology and wealth arrayed across a spectrum of the society, there lurks deep behind the hidden alleys - a lot of despair, lack of opportunity.",
+            "zh_CN": "服务配置\n节点位置\nSingapore and US\n服务器配置\nActive Block Producer：m5.4xlarge，16核CPU，64GB RAM和300GB HD（美国东部）\nStandby Block Producer：m5.4xlarge，16核cpu，64GB RAM和300GB HD（东南亚）\n\n我们估计在发布期间至少需要64核心CPU升级和1 TB RAM以及4 TB硬盘。\n\n我们在6月3日以后，扩展计划包括将我们的新加坡和美国西海岸的数据处理中心，迁移到我们的配置设施中，配备128个核心CPU，2 TB内存，8 TB硬盘和10 GB带宽配置的高端服务器。\n团队介绍\nEOSLOVE决定致力于改善社会，让我们看到不平等和不公正持续存在的各行各业。在过着合理的生活，达到了我们的职业生涯高峰期后，我们满意地回报社会，为改善人民群众做好技术工作，这是我们工作满意度在我们生活的这一点上所取得的成就。\n\nEOS基于生命，自由和财产价值以及技术背后的原则构建的原则呼吁我们作为将我们的使命推进主流的合适工具。对于我们需要在我们的社会效益努力中展示的透明度和敏捷性，区块链可能没有更好的机制。\n\n有了这个作为我们人生愿望的基础，我们正在通过以最有效和最具成本效益的方式提供真正需要的帮助，开始改变世界的旅程。我们的团队来自各种各样的背景和文化/国界，这将为我们提供一个独特的视角，看看如何解决各种文化和国家社会众多不同部门的各种问题。\n联系方式\nTwitter\nhttp://twitter.com/@eoslove_io\nSteemit\nhttps://steemit.com/@eoslove",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoslovebirds",
+  "public_key": "EOS8PKEHrBuBGJwA5MuMwkptWVJhNbhNpVgBRUb4DpxhD5JmQpxgQ",
+  "website": "http://eoslove.io/",
+  "country": "America",
+  "logo": "logo-eoslovebirds.jpg"
+}

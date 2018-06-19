@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosrussiacom",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosrussiacom",
+  "public_key": "EOS5ph2U56qqMfT5TLPyf3PinfCJQ3w2iTV1KjmSnbEV2Yisn21dD",
+  "website": "http://eos.adenso.ru",
+  "country": "中国",
+  "logo": null
+}

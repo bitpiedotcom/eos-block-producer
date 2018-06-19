@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSWenzhou",
+            "zh_CN": "EOSWenzhou",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nChina, Hong Kong , United States, Japan , Singaporendia/Singapore/US\nConfiguration of Servers\nMain server\nCPU：24 vCPU 48 GB Intel Xeon E5-2682v4 2.5 GHz\nRAM：96GB\nSSD： EBS only\nNetwork：1,000 Mbps\nSSD：4096GB\nBackup server\nCPU：16 vCPU Intel Xeon Platinum 8163 2.5 GHz\nRAM：32GB\nSSD： EBS only\nNetwork：1,000 Mbps\nSSD：1024GB\n（A）Cluster node\nCPU：Intel Xeon（Skylake）Platinum 8163 96 core\nRAM：4TB\nSSD：4TB\nNetwork：10 Gbps\nFirewall-handling capacity 7.4Gbps\nShared storage EBS storage\nEBS IOPS\n32,000 IOPS\nExpected monthly cost：7000 USD\n（B）Shared storage EBS storage\nSSD：500 TB\nEBS IOPS\n32,000 IOPSCPU：24 vCPU 48 GB Intel Xeon E5-2682v4 2.5 GHz\nRAM：48GB\nSSD： EBS only\nNetwork：1,000 Mbps\nSSD：1024GB\nBackup server\nCPU：16个vCPU Intel Xeon Platinum 8163 2.5 GHz\nRAM：32GB\nSSD： EBS only\nNetwork：1,000 Mbps\nSSD：1024GB\nGroup Introduction:\nEOS Wenzhou is a blockchain oriented community founded in October 2017.",
+            "zh_CN": "服务配置\n节点位置\nChina , Hong Kong , United States, Japan , Singapore\n服务器配置\n主服务器\nCPU：24个vCPU 48 GB Intel Xeon E5-2682v4 2.5 GHz\n内存：96GB\nSSD：仅限EBS\n网络：1,000 Mbps\nSSD：4096GB\n备份服务器\nCPU：16个vCPU Intel Xeon Platinum 8163 2.5 GHz\n内存：32GB\nSSD：仅限EBS\n网络：1,000 Mbps\nSSD：1024GB\n（A）群集节点\nCPU：Intel Xeon（Skylake）Platinum 8163 96内核\nRAM：4TB\nSSD：4TB\n网络：10 Gbps\n防火墙-吞吐量7.4Gbps\n共享存储EBS存储\nEBS IOPS\n32,000 IOPS\n预计每月成本：7000美元\n（B）共享存储EBS存储\nSSD：500 TB\nEBS IOPS\n32,000 IOPSCPU：24个vCPU 48 GB Intel Xeon E5-2682v4 2.5 GHz\n内存：48GB\nSSD：仅限EBS\n网络：1,000 Mbps\nSSD：1024GB\n备用服务器\nCPU：16个vCPU Intel Xeon Platinum 8163 2.5 GHz\n内存：32GB\nSSD：仅限EBS\n网络：1,000 Mbps\nSSD：1024GB\n团队介绍\nEOS温州是一个成立于2017年10月份的社区，我们是最早接触区块链技术及EOS.IO技术团队和爱好者，目前拥有核心团队10人，运营团队15人。\n\n我们的愿景\n\n温州人具有艰苦奋斗的创业精神，闯荡天下、四海为家的开拓精神，善于创新的创造精神。当前约有300万温州商人分布在全世界，我们将支持和促进EOS.IO分布式生态系统软件成功，同时依托及沟通全世界温商，利用我们在温商当中的极大影响力优势，将金融,跨境汇款,借贷,债券,轻工业,制造业,物流,电商,物联网等产业,进行区块链升级，以利用区块链为实体经济服务为宗旨，建设一个更美好的区块链3.0的未来。",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoswenzhoubp",
+  "public_key": "EOS5SQjv1G8uaxqkXh6Z5nWbKqumhGj91NMq7qkYuvT9YS45QcZsA",
+  "website": "http://www.eoswz.com",
+  "country": "China",
+  "logo": "logo-eoswenzhoubp.jpg"
+}

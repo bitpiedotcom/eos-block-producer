@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Galaxy",
+            "zh_CN": "EOS Galaxy",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Configuration of Servers\nChina\nGroup Introduction\nThe world first node community of blockchain media Mars Finance EOS Galaxy.",
+            "zh_CN": "服务器配置\nChina\n团队介绍\n全球首家区块链媒体火星财经EOS Galaxy节点社区\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "Eosgalaxybp1",
+  "public_key": "EOS6yVYyJd5nrGG86FbM3BM7eV91pdykxqvbnHPWoYzCsMy2Uc16r",
+  "website": "http://www.eosgalaxy.io/",
+  "country": "China",
+  "logo": "logo-Eosgalaxybp1.png"
+}

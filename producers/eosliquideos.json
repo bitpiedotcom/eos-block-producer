@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "LiquidEOS",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosliquideos",
+  "public_key": "EOS4v1n2j5kXbCum8LLEc8zQLpeLK9rKVFmsUgLCWgMDN38P6PcrW",
+  "website": "http://vote.liquideos.com/",
+  "country": "未知",
+  "logo": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "GenerEOS",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "aus1genereos",
+  "public_key": "EOS57ZyzVjoEG2bvzmYmmeiH8YnYtRudxNKxppx17q7Hg29F8tW4t",
+  "website": "http://www.genereos.io",
+  "country": "澳大利亚",
+  "logo": null
+}

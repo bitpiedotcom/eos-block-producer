@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS TEA",
+            "zh_CN": "EOS TEA",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Located in HK\nOur nodes will be deployed in Hong Kong and connected to Mainland China though CN2, which avoids some irresistible factors and strives a perfect balance between network connectivity and security.\n\nCommunity-driven\nWith neither inside stories nor scams, the node is the representative of our community members, who will gradually improve the ecological governance of the community.\n\nInterest Maximization \nWe will maximize the interests of our members through proper ways while respecting and following the constitution introduced by EOS.IO and its international community. (Suggestions from community members are welcome.)\n\nFind us:\nTelegram\nhttps://t.me/eosfanscn\nWechat Public Account:\neosiochina",
+            "zh_CN": "部署在香港\n节点将部署在香港,与大陆地区采用CN2网络高速连接,合理的避免了一些不可抗因素,使网络连通性和安全性达到一个接近完美的平衡.\n\n由社区驱动\n没有内幕,没有阴谋,代表社区成员存在的一个节点.后期将会逐步完善社区的生态治理.\n\n利益最大化\n首先我们会尊重且履行EOS.IO官方及国际社区推行的宪法内容,同时我们会使用合理的方式使参与的社区成员利益最大化(欢迎广大社区成员给我们提议).\n联系方式\nTelegram\nhttps://t.me/eosfanscn\n微信公众号\neosiochina",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosteaeostea",
+  "public_key": "EOS5B7V5TxdZPNiBeDUJSdoovg4Unp3CCbUy4KDiuWJXEWcctXLZN",
+  "website": "https://node.eosfans.io/",
+  "country": "China",
+  "logo": "logo-eosteaeostea.png"
+}

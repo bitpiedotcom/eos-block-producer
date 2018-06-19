@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSBIXIN",
+            "zh_CN": "EOSBIXIN",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nShanghai and Dubai\nConfiguration of Servers\nFor EOS Dawn 3.0 testnet，We have a 8 Cores Broadwell Intel CPU，16GB Mem，1TB mainnet server.\nGroup Introduction\nThe EOSBIXIN group is affiliated to Bixin, led by Bixin COO Chaojijun, and is a newly formed group of outstanding engineers from departments such as mining pools, block producers, and wallets. We have recognized that the blockchain is moving from the underlying technology era to the product era.\n \nAs a high-performance blockchain, EOS will carry omnidirectional distribution and circulation of human values, therefore, we built two basic foundations of EOSBIXIN Block Producer and Bixin EOS Wallet to provide a robust network for EOS, and at the same time make it easier for everyone to use EOS to achieve the prosperity and development of EOS ecology.\n\nFind us on\nGitHub\nhttps://github.com/EOSBIXIN\nTwitter\nhttps://twitter.com/eosbixin\nTelegram\nhttps://t.me/EosBixinChat",
+            "zh_CN": "服务配置\n节点位置\nShanghai and Dubai\n服务器配置\n对于EOS Dawn 3.0 testnet，我们配备了8核Broadwell Intel CPU，16GB Mem，1TB存储的主服务器。\n团队介绍\nEOSBIXIN小组隶属于币信，我们认识到区块链正从底层技术时代迈向产品时代，EOS作为高性能区块链，将承载人类全方位价值的自由发行和流通，所以我们打造EOSBIXIN超级节点和币信。EOS账户两大底层基础，为EOS提供强健的网络，同时让大家更方便使用EOS，实现EOS生态的繁荣发展。\n联系方式\nGitHub\nhttps://github.com/EOSBIXIN\nTwitter\nhttps://twitter.com/eosbixin\nTelegram\nhttps://t.me/EosBixinChat\nSteemit\nhttps://steemit.com/@tuitui",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosbixinboot",
+  "public_key": "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
+  "website": "http://www.eosbixin.com/",
+  "country": "Thailand",
+  "logo": "logo-eosbixinboot.jpg"
+}

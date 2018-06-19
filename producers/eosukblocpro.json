@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS UK",
+            "zh_CN": "EOS UK",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nSpace Data Centre – Nottingham\nConfiguration of Servers\n2 HPE ProLiant DL380 Gen10（one main and one backup ）\n\n2 Intel Xeon Gold 6134M server 3.2 GHz 8 core\n128GB RAM \n512 GB SSD（RAID 1）\n\nWhole nodes server\n2个HPE ProLiant DL380 Gen10（one main and one backup）\n\n2个Intel Xeon Gold 6134M server3.2 GHz 8 core\n64GB RAM \n512 GB SSD（RAID 1）\nGroup Introduction\nEOS UK is located in London, the funder is Roger John Davies. It’s aimed to provide the most transparent and reliable node in the EOS mainnet.\nFind us on\nTwitter\nhttps://twitter.com/eosukbp\nFacebook\nhttps://www.facebook.com/advantaproductions/\nSteemit\nhttps://steemit.com/@bodget",
+            "zh_CN": "服务配置\n节点位置\nSpace Data Centre - Nottingham\n服务器配置\n节点生产者服务器\n2个HPE ProLiant DL380 Gen10（1个主要1个故障切换）\n\n建议的启动配置\n2个Intel Xeon Gold 6134M处理器3.2 GHz 8核\n128GB RAM \n512 GB SSD（RAID 1）\n\n全节点服务器\n2个HPE ProLiant DL380 Gen10（1个主要1个故障切换）\n\n建议的启动配置\n2个Intel Xeon Gold 6134M处理器3.2 GHz 8核\n64GB RAM \n512 GB SSD（RAID 1）\n团队介绍\nEOS UK坐落于伦敦，创始人Roger John Davies，打算为我区块生成者提供EOS网络上最透明和可靠的节点。\n\n除了对所有员工的工资合理和标准的运营成本，所有的初始收入将漏斗放回我们的砌块生产基础设施，以确保在弹性极限和达到的性能。\n\n未来想建立EOS大学，重点开展“下一代”下一代”在计算机科学，政治和经济问题，以及这些学科通过使用Blockchain技术和断词被从根本上改变。\n\nEOS UK将作为候选团队和区块生产者的一起推动EOS理念，通过聚会，信息发布和协作与商业和学术机构利用网络来造福英国。\n联系方式\nTwitter\nhttps://twitter.com/eosukbp\nFacebook\nhttps://www.facebook.com/advantaproductions/\nSteemit\nhttps://steemit.com/@bodget",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosukblocpro",
+  "public_key": "EOS5s2XeT1rUF9EztcpjT6hqTiRb15f21UeRoamSygc5FkYzWrmfJ",
+  "website": "https://eosuk.io/",
+  "country": "England",
+  "logo": null
+}

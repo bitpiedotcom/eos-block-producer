@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosbepalsafe",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosbepalsafe",
+  "public_key": "EOS86hvMribS2cvz2NEHrT7LRzpxuW1v6oGJU47ec8C4HXsFKmRn3",
+  "website": "https://eos.bepal.io",
+  "country": "中国",
+  "logo": null
+}

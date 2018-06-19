@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "taxreliefeos",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "taxreliefeos",
+  "public_key": "EOS5CLuk8Fz3F1vu4jKs3aA3MNsHdRhjBHNjU5DfTGya3rURUQoAp",
+  "website": "https://eostaxrelief.com/bp_info.json",
+  "country": "中国",
+  "logo": null
+}

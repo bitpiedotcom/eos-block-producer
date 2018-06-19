@@ -1,0 +1,17 @@
+{
+  "name": { "en": "TOKENIKA",
+            "zh_CN": "TOKENIKA",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Server Configuration\nOur infrastructure is powered by three main servers: Nike, Wawel and Hemnes (double Xeon E5-2687W, 512GB storage, ECC DDR4) plus other boxes.\n\nGroup Introduction:\nTokenika is a Warsaw-based blockchain company, a tank that specializes in blockchain and distributed ledger technology. Our team members have expertise in the fields of IT, coding, artificial intelligence, laws and regulation, striving to lay a foundation for the future development of blockchain-related technology.\n\nSince the year of 2012, we have been participating in blockchain and DLT technology and been the determined supporter of Dan Larimer (Founder of EOS) since the first generation of Bit Shares-BitShares X was launched. \n\nFind us:\nGitHub\nhttps://github.com/tokenika\nTwitter\nhttps://twitter.com/tokenika_io\nFacebook\nhttps://www.facebook.com/groups/tokenika/\nSteemit\nhttps://steemit.com/@tokenika",
+            "zh_CN": "服务器配置\n有3个主要服务器：耐克，瓦维尔和汉尼斯（双Xeon E5-2687W与512GB内存ECC DDR4）。再加上其他一些箱子为我们的基础设施提供动力。\n团队介绍\nTokenika是位于华沙的东欧区块链公司，专门从事区块链和分布式账本技术的智囊团。我们的成员来自IT、编码、人工智能、法律和监管环境领域所组成，致力于为最有前途的区块链相关技术打下基础。\n\n自2012年以来，我们的团队成员一直参与区块链和DLT技术，自推出Bit Shares的第一代BitShares X以来，我们一直坚定支持Dan Larimer（EOS的创建者）项目。\n\n目前，Tokenika成功部署EOS.io生态系统，这是区块链领域最耀眼的新星之一。作为节点竞选团队，我们非常清楚这项任务的规模和复杂性。\n\n我们的主要优势：\n我们的基础设施由GTG设立并进行了精心调整，而GTG是Steem表现最好的见证节点之一，所以Tokenika的服务器基础设施非常强大。\n我们使用Tier-3 +数据中心，具有故障恢复保护功能的行业级和能保证99.9％的正常运行时间。并在ROGUE的见证下，为EOS社区测试网制作块。\n\n我们领导一个积极的EOS社区，并在Steem平台上进行热烈的跟踪，在那里我们就有关EOS.io的技术和实践主题进行教育和提供建议。\n\n我们还在为EOS生态系统开发几种解决方案，例如EOSFACTORY、EOSPROJECTS，现有EOS工具和扩展的列表以及EOS块浏览器。\n\n就Dapp而言，我们正在构建一个EOS的数字身份识别系统叫SYGNET。此外，为了促进EOS的大规模采用，还与另一位MMO游戏开发人员进行对话，还不时向波兰政府的数字化部门提供有关区块链相关事宜的建议，并及早洞察波兰和欧盟的区块链监管环境。\n联系方式\nGitHub\nhttps://github.com/tokenika\nTwitter\nhttps://twitter.com/tokenika_io\nFacebook\nhttps://www.facebook.com/groups/tokenika/\nSteemit\nhttps://steemit.com/@tokenika",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "tokenika4eos",
+  "public_key": "EOS8Src8Nd3EoJpewmPzSDjZP8A3iLuHky4itLqWwuCjPNdCztrVL",
+  "website": "https://tokenika.io",
+  "country": "Ploland",
+  "logo": "logo-tokenika4eos.png"
+}

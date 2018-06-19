@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOS  Village",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosvillagebp",
+  "public_key": "EOS63VmFVSwsLBDdepSyx4yr1qeJkrLNq2v1Tgf45WH7sU5mnhLPw",
+  "website": "https://eosvillage.io",
+  "country": "中国",
+  "logo": null
+}

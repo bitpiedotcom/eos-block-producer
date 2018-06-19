@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Dublin",
+            "zh_CN": "EOS Dublin",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nIreland\nconfiguration of servers\nWe chose the leading Ireland data centers to cooperate with this project. It is distributed in two places of Ireland with leading technology, bandwidth and services. \nWe have enough capabilities and flexibilities and can expended to support EOS community.\nWe will announce our stack and settings in the coming weeks, and will join in other BP test network in coming weeks and months.\nGroup introduction\nThe four green dots on our logo represent our core values: Independence, Honesty, Integrity, and Education. We are the main hub for EOS in Ireland. We believe that EOS.IO represents a global paradigm shift towards a better digital world. EOS.IO is more than a technological advance, it’s about what becomes possible when we merge technology, community and individual commitment. To us, EOS block producers are akin to the janitor sweeping the floor at NASA. We play a small part in a world-changing venture.",
+            "zh_CN": "服务配置\n节点位置\nIreland\n服务器配置\n我们选择领先的独立爱尔兰数据中心与该项目合作。分布在爱尔兰的两个地点，拥有领先的技术，带宽和服务。\n\n我们拥有足够的能力和灵活性，并可扩展运营以支持EOS社区。\n\n我们将在未来几周宣布更多关于我们的堆栈和设置，并且也将在未来几周和几个月内加入其他BP测试网。\n团队介绍\nEOS Dublin是位于爱尔兰都柏林的超级节点候选人。\n我们徽标上的四个绿点代表了我们的核心价值观：独立，诚信，诚信和教育。我们相信EOS.IO代表了一个向更好的数字世界迈进的全球范式转变。\nEOS.IO不仅仅是一项技术进步，而是关于我们融合技术，社区和个人承诺时变得可能的事情。\n对我们来说，EOS块的生产者就像在美国宇航局扫地的看门人一样。我们在改变世界的风险中扮演一小部分角色。作为区块生产者，我们正在设计未来的基础。我们迫不及待想要了解基金会完成后的未来。\n联系方式\nTwitter\nhttps://twitter.com/@eosdublin\nTelegram\nhttps://t.me/eosdb\nMedium\nhttps://medium/@eosdublin\nSteemit\nhttps://steemit.com/@eosdublin",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosdublinwow",
+  "public_key": "EOS5bjub7pm8H9WLMYW5ETSwfFKrEJpVWwiwK5knvGAqLVUjEpLxx",
+  "website": "https://www.eosdublin.com/",
+  "country": "Ireland",
+  "logo": "logo-eosdublinwow.jpg"
+}

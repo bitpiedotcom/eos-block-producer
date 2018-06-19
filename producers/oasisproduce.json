@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "oasisproduce",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "oasisproduce",
+  "public_key": "EOS5wqMLH1t9dTGsgYmKKcNps2mdrzdBmJ8mL3PnNC2M8ktrLvEgs",
+  "website": "http://eosoasis.io",
+  "country": "中国",
+  "logo": null
+}

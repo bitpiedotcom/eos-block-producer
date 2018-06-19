@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS India",
+            "zh_CN": "EOS India",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nMumbai, India\nConfiguration of Servers\n\nBP "APPOINTED": \nIf EOS India is "appointed" as Block Producer, only 1 Elastic Compute Cloud (EC2) instance will be running the main BP for the duration of the first election. \n\n  Nodes 1x EC2 (x1.32xlarge) \n  vCPUs 128 Cores \n  Memory 2TB RAM \n  Storage (IPFS) 2 x 1920GB (SSD) \n  Network 25 Gigabit \n\nBP "ELECTED": \n\nIf EOS India is "elected" as Block Producer, two Elastic Compute Cloud (EC2) instances will be running as full EOS nodes. In the event of a failure of the main BP node, the secondary BP node will act as a backup and will become the main node. Minimal downtime shall be the main priority in case of a full node failure. \n\n  Nodes 2x EC2 (x1.32xlarge) \n  vCPUs 128 Cores \n  Memory 2TB RAM \n  Storage (ipfs) 2 x 1920GB (SSD) \n   Network 25 Gigabit\n\nGroup Introduction\nEOS India has great knowledge of technologies, strategies and business.\nFind us on:\nTwitter\nhttps://twitter.",
+            "zh_CN": "节点位置\nMumbai, India\n服务器配置\n如果EOS India成为BP，则在第一次选举期间，只有一个弹性计算云（EC2）实例将运行主要BP。\n\n节点1x EC2（x1.32xlarge）\n\nvCPU 128内核\n\n内存2TB RAM\n\n存储（IPFS）2 x 1920GB（SSD）\n\n网络25千兆\n\nBP“选举”：\n\n如果EOS印度被选为Block Producer，则两个Elastic Compute Cloud（EC2）实例将作为完整的EOS节点运行。在主要BP节点发生故障的情况下，辅助BP节点将充当备份并且将成为主节点。在全节点故障的情况下，最小停机时间应是主要优先事项。\n\n节点2x EC2（x1.32xlarge）\n\nvCPU 128内核\n\n内存2TB RAM\n\n存储（ipfs）2 x 1920GB（SSD）\n\n网络25千兆\n团队介绍\nEOS India我们的团队汇集了来自各领域领先组织的技术、战略和业务方向的专业知识。\n联系方式\nTwitter\nhttps://twitter.com/indianeagle\nFacebook\nhttps://www.facebook.com/indianeaglellc/\nTelegram\nhttps://t.me/eosindiabp\nMedium\nhttps://medium.com/@venkatapedi\nSteemit\nhttps://steemit.com/@eosindia\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosindiaiobp",
+  "public_key": "EOS5CDcGnvygWYfCT9kig3KjAsLeMAngc47m3oUWeA3Fs641f4n3B",
+  "website": "https://eosindia.io/",
+  "country": "India",
+  "logo": "logo-eosindiaiobp.jpg"
+}

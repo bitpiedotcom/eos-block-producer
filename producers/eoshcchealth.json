@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSHCC",
+            "zh_CN": "EOSHCC",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nSingapore, China, Japan\nConfiguration of Servers\nTestnet: AWS 16 Core，64 GB RAM, 256GB + SSD\nWe will run two nodes, one for livenet and one for backup.\nGroup Introduction\nEOS.HCC is not only a block producer, but also an important partner of EOS in Asia-Pacific region. Our positive EOS community activities are one of the contributions for EOS ecology. We believe that the strong technology of EOS and low-cost users have a great application space, particularly in the audience, in dealing with a large amount of data and data deposit. We hope that EOSHCC can become the pioneer of EOS ecology and to expend more ecological possibilities from niche app field. We believe that EOS can better change our life style.\nFind us on\nGitHub\nhttps://github.com/headthcarechain\nTelegram\nhttp://t.me/eos_hcc_node",
+            "zh_CN": "服务配置\n节点位置\nSingapore, China, Japan\n服务器配置\n我们为Testnet使用AWS 16 Core，64 GB RAM和256GB + SSD，我们将运行两个节点，一个用于livenet，另一个用于保留/备份。\n团队介绍\nEOS.HCC不仅是一个区块生产者，我们还将是EOS在亚太地区的重要合作伙伴，我们保持积极的EOS社区活动，是EOS的生态贡献者之一，我们相信EOS强大的技术指标和低成本用户具有非常大的应用空间，特别是在观众中，处理大量数据和数据存储;希望EOSHCC成为EOS生态的先驱，并从小众应用领域拓展更多的EOS生态可能性。相信EOS能可以更好地改变我们的生活方式。\n联系方式\nGitHub\nhttps://github.com/headthcarechain\nTelegram\nhttp://t.me/eos_hcc_node",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoshcchealth",
+  "public_key": "EOS7qQrBczoy9B892tRY9eir21eBh6S1nUMjZGyJaVY1EDLe7TdvL",
+  "website": "http://eos.hcc.top/",
+  "country": "Singapore",
+  "logo": "logo-eoshcchealth.jpg"
+}

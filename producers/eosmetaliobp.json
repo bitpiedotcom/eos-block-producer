@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSMetal",
+            "zh_CN": "EOSMetal",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service Configuration\nLocation of nodes：\nIceland, Panama\nServer Configuration:\nOur infrastructure at EOS.io mainnet launch will consist of bare metal servers, geographically distributed at the time of launch. This hardware will consist of:\n\nDual Xeon Processors.\n\n64GB of Ram (Expandable to 128GB).\n\n2x480GB SDD (Expandable).\n\nFirewall, Load Balancing and DDoS services.\n\nIceland & Panama Datacenters at Launch.\n\nDenmark & Grand Cayman on Roadmap.\n\nWe pledge to follow the EOS constitution in all aspects and judgements. We are 100% self-funded and will never take money from any outside organiztion, DAPP, exchange or investor.We pledge to never pay out dividends or other financial methods to purchase votes or favor, our operations will maintain complete unbiased neutrality.Twitter\nhttps://twitter.com/EOSMetal\nTelegram\nhttps://t.me/EOSMetal\nSteemit\nhttps://steemit.com/eos/@eosmetal/introducing",
+            "zh_CN": "服务配置\n节点位置\nIceland, Panama\n服务器配置\n两个位于冰岛的物理服务器和一个位于巴拿马的服务器用于额外的故障转移和api查询，并传递BP块。每个服务器将由以下最低硬件组成：\n\n双氙气处理器\n64 GB的Ram（可扩展至1TB）\n2 x 480 GB SSD（可扩展）\n团队介绍\nEOSMetal建立在尽可能去中心化和独立的前提下，同时仍然提供强大的基础设施。我们通过“裸机”物理服务器设计来实现这一目标，并通过将我们的基础设施定位于多个地缘、政治边界，而进一步分散。\n\n我们完全自给自足，永远不会从Dapp，销售token或交换中获得任何收入。绝不会通过股息或任何其他会损害我们作为无偏见块的制作者的方法购买选票。\n\n我们都是EOS投资者，其次是区块生产者，我们尊重这个角色的需求，因为它直接影响我们作为EOS项目的投资者和支持者。\n联系方式\nTwitter\nhttps://twitter.com/EOSMetal\nTelegram\nhttps://t.me/EOSMetal\nSteemit\nhttps://steemit.com/eos/@eosmetal/introducing",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosmetaliobp",
+  "public_key": "EOS6nTwVt2xXPqj49crMpFRpe6ooMi8od5RMSS763Rvfv7Hh2SQNT",
+  "website": "https://eosmetal.io/",
+  "country": "Iceland",
+  "logo": "logo-eosmetaliobp.png"
+}

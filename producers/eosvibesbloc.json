@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSVibes",
+            "zh_CN": "EOSVibes",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nAmsterdam, Frankfurt, Dublin, Ireland.\nConfiguration of Servers\nLocation Amsterdam, NLD\nServer HP DL120 G9\nCPU 1x Intel Quad-Core Xeon E5-1620v4\nRAM 32GB DDR4\nHard disk 4x2TB SATA2\nData center AMS-01\nSoftware CentOS 6\nNetwork Unlimited traffic with guaranteed bandwidth\nGroup Introduction\nWe are a diversified team who live in a variety of locations across the world. After consultation with the EOS community, we have decided to structure ourselves as a DAT; A Decentralized Autonomous Team. The reason we have done this is because we want to be as politically and geographically diversified as possible.\nEOSVibes is an honour and reputation based organisation. We have created an early draft of our Constitution and made it open source for community input on GitHub. This will be a binding agreement which all members in our DAT will agree to abide by. The EOSVibes DAT will also agree to abide by the EOS Constitution that is currently being d",
+            "zh_CN": "服务配置\n节点位置\nAmsterdam, Frankfurt, Dublin, Ireland.\n服务器配置\n我们主要的服务器：\n1个Intel四核至强E5-1620v4 \n\n惠普DL120G9 \n\n1个4核心\n\n32GB DDR4内存\n\n4x2TB SATA2 \n\n无限流量，保证带宽\n\n我们的法兰克福备用专用服务器\nHP DL180G6 \n\n2x 4核心\n\n32GB DDR3内存\n\n8x2TB SATA2\n团队介绍\n大家好！\n我们是EOSVibes - ''Dapp发展''EOS Block制片人候选人。\n\n我们是谁生活在一个不同的世界各地的地方有才华，上进和创意blockchain爱好者的多元化团队。EOSVibes是一种荣誉和名誉为基础的组织，我们已经创建了我们宪法的初稿，并使其开源社区输入在GitHub上。\n我们的使命是为EOS社区创造持续的价值。\n\nEOSVibes承诺：\n以最佳方式保护EOS区块链，同时保护在EOS.IO之上创建和部署具有真实世界用例的新Dapp我们的第一个Dapp团队通过免费的Airdrop向所有EOS token持有者发布（在EOS区块链启动后的90天内）;\n\n通过EOS Vibes创建的所有未来Dapps将遵循类似的模式空投，这将给整个EOS社区建设EOS供电 token 的投资组合的机会。\n\nEOSVibes还将公布来自EOS社区的新Dapp创意，让每个人都有机会将他们梦想到Dapp上发展。\n联系方式\nTwitter\nhttps://twitter.com/eosvibes_bp\nTelegram\nhttps://t.me/EOSVibes\nSteemit\nhttps://steemit.com/@eosvibes",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosvibesbloc",
+  "public_key": "EOS5wjoLzkppkupmajDM59StKoFSR9AZugfnRSkuBZKDgTrBHP6ZZ",
+  "website": "https://www.eosvibes.io/",
+  "country": "Holland",
+  "logo": "logo-eosvibesbloc.png"
+}

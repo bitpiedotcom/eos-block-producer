@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Green",
+            "zh_CN": "EOS Green",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nEastern EU and Ukraine\nConfiguration of Servers\nMay change later：\nRAM：1-4 TB \nCPU core：32+（but will need a one core in the news conference）\nSSD :20 TB + \nNodes：2 + 2 standby\nGroup Introduction\nEOSGreen is one of the Block Producers, BPs, on EOS blockchain. As our title describes EOSGreen aims at using sustainable solutions to run it’s activities and also drive sustainability in EOS ecosystem. We at EOSGreen would like to be the pioneers in driving the sustainability initiative in EOS Block Production.\nWe took a commitment to work together with the community in a sustainable direction and that will be our priority. We encourage solutions, ideas & dApps which standby our core mission values. We are already in discussion with potential projects. \nFind us on\nGitHub\nhttps://github.com/eosgreen\nFacebook\nhttps://www.facebook.com/eosgreen.io\nSteemit\nhttps://steemit.com/@marcinsteem",
+            "zh_CN": "节点位置\nEastern EU and Ukraine\n服务器配置\n下面列出的硬件规格可能会根据Block.One和社区推荐进行更改：\nRAM：1-4 TB \nCPU内核：32+（但是在发布时需要一个1核CPU）\n存储磁盘空间20 TB + \n节点：2 + 2待机\n团队介绍\nEOS Green是一家受区块链技术和可再生能源相结合启发的公司。\n我们提供适当的设备以参与EOS块的生产，所有需要的能源最终将来自太阳能电池板，水电和生物燃料等可再生资源。未来，我们计划不仅为我们而且为成千上万的潜在客户产生和储存足够的能量。预计未来十年内，美国国家可再生能源市场将继续强劲增长，这将为我们实现成功的商业做出承诺。我们所做的一切，我们都相信挑战我们如何使用该技术的现状。\n联系方式\nGitHub\nhttps://github.com/eosgreen\nFacebook\nhttps://www.facebook.com/eosgreen.io\nSteemit\nhttps://steemit.com/@marcinsteem",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosgreeniobp",
+  "public_key": "EOS6gBhD9Dm7qcJuR5WFuxNo6aH15csHP8uss8esejuNoEUmRZUR9",
+  "website": "http://eosgreen.io/",
+  "country": "the European Union",
+  "logo": "logo-eosgreeniobp.jpg"
+}

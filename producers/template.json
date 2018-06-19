@@ -1,0 +1,17 @@
+{
+  "name": { "en": "{{ producer.name.en }}",
+            "zh_CN": "{{ producer.name.zh_CN }}",
+            "zh_TW": "{{ producer.name.zh_TW }}",
+            "ja": "{{ producer.name.ja }}"
+          },
+  "info": { "en": "{{ producer.info.en }}",
+            "zh_CN": "{{ producer.info.zh_CN }}",
+            "zh_TW": "{{ producer.info.zh_TW }}",
+            "ja": "{{ producer.info.ja }}"
+          },
+  "account": "{{ producer.account }}",
+  "public_key": "{{ producer.public_key }}",
+  "website": "{{ producer.website }}",
+  "country": "{{ producer.country }}",
+  "logo": "{{ producer.logo }}"
+}

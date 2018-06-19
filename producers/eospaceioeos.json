@@ -1,0 +1,17 @@
+{
+  "name": { "en": "BitSpace",
+            "zh_CN": "BitSpace",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nNorway\nConfiguration of Servers\nSupermicro 1123US-TR4\nAMD Epyc 16C/32T 7351P 2.4GHz (2.9GHz) 64M\nRAM: 256GB DDR4 2666MHz ECC\nSSD: Intel NVMe DC P4500 - 2TB\nNetwork: 1Gbps\n网络2x1GB NICGroup Introduction\nBitSpace is Norway’s leading blockchain technology company and has been a strong supporter of Daniel Larimer’s vision since 2013. We were honored to be invited to the EOS launch party at Consensus New York 2017 and have advanced our focus on EOS since then.\nIn 2018 we have created events, presentations, hackathons and videos to spread awareness of EOS. In addition, we are helping several companies transition to EOS, proactively building the community and forming partnerships to scale internationally.\nFind us on\nTwitter\nhttps://www.twitter.com/BitSpaceNetwork\nFacebook\nhttps://www.facebook.com/bitspace.no\nTelegram\nhttps://t.me/BitSpaceNetwork\nSteemit\nhttps://www.steemit.com/@bitspace",
+            "zh_CN": "服务配置\n节点位置\nNorway\n服务器配置\n高性能服务器（初步计划）\n类型型号\n服务器型号Supermicro 1123US-TR4\n处理器AMD Epyc 16C/32T 7351P 2.4GHz (2.9GHz) 64M\n内存256GB DDR4 2666MHz ECC\n硬盘Intel NVMe DC P4500 - 2TB\n带宽1Gbps\n网络2x1GB NIC\n通过扩展继续改善我们基础设施的技术、地理和管辖余量。在性能方面，我们不断进行基准测试，并将继续研究柚子操作系统的技术性能，以阐明区块生产者和子节点的要求。\n团队介绍\n比特空间（BitSpace）是挪威领先的区块链技术公司，自2013年以来一直是丹尼尔·拉里默（Daniel Larimer，比特股创始人）愿景的有力支持者。在2017年纽约共识会议上，我们很荣幸地获邀参加柚子操作系统发布会，并从那时起就把重点放在了EOSIO上。\n\n2018年，我们举办了一系列活动、专题介绍、编程马拉松和视频来宣传柚子操作系统。此外，我们正在帮助多家公司过渡到柚子操作系统，积极建设社区并形成合作伙伴关系，以扩大国际规模。\n\n比特空间是一个成熟的区块链创新网络，在委托权益证明技术方面拥有丰富的知识和经验，通过咨询工作，拥有超过6个月的委托权益证明链，并成为比特股（BitShares）的区块生产商。我们还积极参与比特股和斯蒂姆（Steemit）社区，自2015年以来举办了比特股专题介绍以及2016年首次举办斯蒂姆编程马拉松。目前我们正在测试并运行节点名称为“比特空间”的柚子操作系统节点，我们将继续测试网络环境。\n\n我们对柚子操作系统实现主流去中心化应用的潜力感到非常兴奋，并且为柚子操作系统建立了比特空间区块生产者，以帮助确保比特空间建立在以下价值观和原则的基础上：个人主权和自主权，自愿联合以及财务和政治自由。\n联系方式\nTwitter\nhttps://www.twitter.com/BitSpaceNetwork\nFacebook\nhttps://www.facebook.com/bitspace.no\nTelegram\nhttps://t.me/BitSpaceNetwork\nSteemit\nhttps://www.steemit.com/@bitspace",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eospaceioeos",
+  "public_key": "EOS7dZPHgFJXwHz84JWf5QgybxLpp95cxYE5c4yngsrSqgVFczaPs",
+  "website": "https://bitspace.no/eos/",
+  "country": "Norway",
+  "logo": "logo-eospaceioeos.jpg"
+}

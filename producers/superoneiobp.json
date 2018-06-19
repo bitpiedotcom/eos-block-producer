@@ -1,0 +1,17 @@
+{
+  "name": { "en": "SuperONE",
+            "zh_CN": "SuperONE",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nChina, Hong Kong, Japan, Korea, Canada, etc.\nConfiguration of Servers\n169/5000\nBlock node: 64 core 256G RAM   1T SSD*2   switch fast under Hot-Warm condition\nAPI node：64 core 256G RAM   1T SSD* 1\nGroup Introduction\nWe are the earliest enthusiasts of blockchain technology and we are the technical flow and aesthetic flow in the blockchain field, focusing on the management of blockchain assets and smart contracts. The SuperONE project sponsor (community ID: crazybit) is a senior participant in the BitShares community and has in-depth research on the kernel of graphene. As a community-leading development team, the SuperONE(superone.io) wallet is developed to meet the needs of practicality and convenience of commercial applications, providing users with more secure, more transparent, decentralized on-chain trading and digital asset management platform.\nFind us on\nGitHub\nhttps://github.com/superoneio\nTwitter\nhttps://twitter.com/superoneio",
+            "zh_CN": "服务配置\n节点位置\nChina, Hong Kong, Japan, Korea, Canada, etc.\n服务器配置\n169/5000\n区块节点：64个核心256G内存1T SSD硬盘* 2组，在Hot-Warm状态下，能够快速切换\nAPI节点：64核心256G内存1T SSD硬盘* 1套\n团队介绍\nSuperONE项目发起人（社区ID：crazybit）是区块链领域的高级参与者，侧重于区块链领域的管理流程和审美流程，重点关注区块链评估和bistShares社区，并对石墨烯的内核进行了深入研究，作为社区领先的开发团队，SuperONE（superone.io）账户的开发旨在满足商业应用的实用性和便利性需求，为用户提供更安全，更多透明，分散的上链式交易和数字资产管理平台。\n联系方式\nGitHub\nhttps://github.com/superoneio\nTwitter\nhttps://twitter.com/superoneio\nFacebook\nhttps://www.facebook.com/superoneio\nMedium\nhttps://medium.com/@superoneio\nSteemit\nhttps://steemit.com/@superoneio",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "superoneiobp",
+  "public_key": "EOS6jtExp2sGpxMY8jFP1aBhDkdyHvuMS7EAVgDWQ7kaeMtdLH34U",
+  "website": "https://superone.io/",
+  "country": "China",
+  "logo": "logo-superoneiobp.jpg"
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "MotionEOS",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosmotioneos",
+  "public_key": "EOS5JEphcJgHbvVqnKwz93Buq5SUCkkZkgwdiTbXfgF8steHpJuj4",
+  "website": "https://project.motion.one",
+  "country": "中国",
+  "logo": null
+}

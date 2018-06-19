@@ -1,0 +1,17 @@
+{
+  "name": { "en": "BitcoinGod",
+            "zh_CN": "BitcoinGod",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nWestern United States (Northern California)\n\nServer Configuration\nServer Type:\nCPU: Intel Xeon 2.5G 8 core\nRAM: 24G DDR4 \n384G SSD \nWe will keep optimizing our server configuration based on the adjustment of EOS.\n\nGroup Introduction\nWe aim to build a EOS node featuring democracy, safety, stability and efficiency.\nWe are a technology group dedicated to undertakings for public good. We strive to build a democratic, open and transparent public community based on EOS. We invest in what we believe and what we are passionate about.\nWe believe EOS community will be a model for public welfare cause.\n\nFind us:\nTwitter\nhttps://twitter.com/BitcoinGodOrg\nSteemit\nhttps://steemit.com/@bitcoingod2018",
+            "zh_CN": "节点位置\nWestern United States (Northern California)\n服务器配置\n服务器类型：\nCPU：Intel Xeon 2.5G 8核心\n内存：24G DDR4 \n存储：384G SSD \n由于EOS正在数字化优化，我们将继续跟进EOS的最新调整，以优化我们的服务器配置。\n\n团队介绍\n我们要创建一个安全，稳定和高效的EOS民主节点。\n\n我们是一个热心公益事业的技术小组，致力于建立一个基于EOS的民主，开放和透明的公益社区我们相信并投资于我们的激情，我们相信并投资于激情。\n\n知识和信念，让我们为EOS平台及其社区做出积极贡献，并且相信EOS社区将成为公益事业的典范。\n联系方式\nTwitter\nhttps://twitter.com/BitcoinGodOrg\nSteemit\nhttps://steemit.com/@bitcoingod2018",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "bitcoingod11",
+  "public_key": "EOS8FGBXiineqciyhjKM2ypFgETDu8BJTDyHXuA2kY58Rbt1RNeHm",
+  "website": "https://eos.bitcoingod.org/",
+  "country": "America",
+  "logo": "logo-bitcoingod11.jpg"
+}

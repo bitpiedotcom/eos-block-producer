@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "bchainlabeos",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "bchainlabeos",
+  "public_key": "EOS6n6RZi6EXHKBX53HyuXgzMw5sUzWWQomwDLYLc1PcjZY3CCzzE",
+  "website": "https://blockchainlab.me",
+  "country": "中国",
+  "logo": null
+}

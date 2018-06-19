@@ -1,0 +1,17 @@
+{
+  "name": { "en": "SaltBlock",
+            "zh_CN": "SaltBlock",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nSalt Lake City，USA\nConfiguration of Servers\nCluster nodes: 2x Intel Xeon@2.93Ghz 192GB RAM \nShared storage: provide 12 TB SAS for each device(can be upgraded to 120TB for each)\nFirewall-handling capacity 7.4Gbps\nGroup Introduction\n大家好，我们是位于美国犹他州盐湖城的盐区块生产者SaltBlock，我们对即将到来的EOS的推出感到非常兴奋，我们想介绍自己并告诉你我们应该如何计划被选为超级节点。\nHi everyone, we are SaltBlock, a block producer which located in Salt Lake City in Utah, USA. We are excited to the coming EOS, we want to introduce ourselves and tell you how we are planning to be chosen as the super node. \nOur mission is to translate our knowledge and skills into a positive and dependable platform while helping the EOS community achieve great things through thoughtful action.\nFind us on\nTwitter\nhttps://twitter.com/saltblockBP\nTelegram\nhttps://t.me/EOSPros\nSteemit\nhttps://steemit.com/@saltblock",
+            "zh_CN": "服务配置\n节点位置\nSalt Lake City，USA\n服务器配置\n测试网当前硬件规格\n群集节点- 2x Intel Xeon@2.93Ghz 192GB RAM \n共享存储-为每个设备提供12 TB SAS存储（可升级至每个120 TB）\n防火墙-吞吐量7.4 Gbps \n\n\n团队介绍\n大家好，我们是位于美国犹他州盐湖城的盐区块生产者SaltBlock，我们对即将到来的EOS的推出感到非常兴奋，我们想介绍自己并告诉你我们应该如何计划被选为超级节点。\n\n我们相信EOS将会把区块链和去中心化技术带入主流，不仅因为EOSIO软件是由Block.One创建的，而且还因为我们很幸运能成为其中一部分的令人惊叹的社区。\n\n我们的使命是将我们的知识和技能转化为积极和可靠的平台，同时通过深思熟虑的行动帮助EOS社区实现伟大的事业。\n联系方式\nTwitter\nhttps://twitter.com/saltblockBP\nTelegram\nhttps://t.me/EOSPros\nSteemit\nhttps://steemit.com/@saltblock",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "saltblockeos",
+  "public_key": "EOS6RyLR15bpUN9X9BXxBkk1sQVv2k9PVSSCtfh9kHsf2XXFNcSLC",
+  "website": "https://www.saltblock.io/",
+  "country": "America",
+  "logo": "logo-saltblockeos.jpg"
+}

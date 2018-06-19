@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSNAIROBI",
+            "zh_CN": "EOSNAIROBI",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nNairobi, Kenya\n\nServer Configuration\nThe server now runs on a personal Testnet and is under the discussion of joining EOS SCHOLAR.\n16-32 GB RAM, 6-8 CORES, 512GB HDD, 1TB Internet transmission, 1GBps (local), 100MBps (international). \nAfter 3rd June, 2018, it is expected to be:\n256 GB + RAM, 16-32 CORES, 1-10GBps Bandwidth, 20TB +HDD\n\nGroup Introduction\nEOSNAIROBI is a strong and vibrant community made up of individuals with different backgrounds who believe that blockchain technology will drive the future. A future where tools of wealth creation are decentralized and accessible to many, a future of transparency and accountability, a future where individuals and groups can participate in making the world a better place on an incentivized platform.\n\nFind us:\nTelegram\nhttps://t.me/eosnairobi",
+            "zh_CN": "节点位置\nNairobi, Kenya\n服务器配置\n目前运行在私人测试网上\n在讨论中加入EOS SCHOLAR。\n16-32 GB RAM，6-8 CORES，512GB固态硬盘，1TB Internet传输，1GBps（本地），100MBps（国际）。\n预计2018年6月3日之后：\n256 GB + RAM，16-32 CORES，1-10GBps带宽，20TB +存储\n\n2018年6月3日之后估算的硬件扩展计划-发布到Steem区块链。\n基础设施位于三层数据中心，具有足够的空间和扩展设施，包括冷却系统，2台备用发电机，全服务变电站，UPS设施以保持基础设施正常运行。\n团队介绍\nEOSNAIROBI个是一个强大和充满活力的社区，与不同背景的人认为区块链技术将推动未来。未来财富创造的工具是分散的，可以对许多人来说,透明度和问责制的未来，未来个人和团体可以参与一个鼓励平台上使世界变得更美好\n联系方式\nTelegram\nhttps://t.me/eosnairobi",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosnairobike",
+  "public_key": "EOS54UAELQVaMrc1y98W7KsfLbBchvsQg7FCEYpoiQLi5y1Gvyqcy",
+  "website": "http://eosnairobi.io/",
+  "country": "Kenya",
+  "logo": null
+}

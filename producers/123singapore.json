@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOSSingapore",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "123singapore",
+  "public_key": "EOS71UbkZzuz55WNBpsEVQzkXrZAJ2XyLoQiEcS9WKwbYambhFxWb",
+  "website": "http://eos.vote",
+  "country": "新加坡",
+  "logo": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosarabianet",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosarabianet",
+  "public_key": "EOS6JuwKSkEiYNR88bV9wz7uQGjMiSabMzFearb6UmuEE4uK3rSR6",
+  "website": "http://eosarabia.net/",
+  "country": "中国",
+  "logo": null
+}

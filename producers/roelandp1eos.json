@@ -1,0 +1,17 @@
+{
+  "name": { "en": "RoelandP",
+            "zh_CN": "RoelandP",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nUSA, Canada, France, Germany and The Netherlands.\n\nServer Configuration\nMain node-specialized box:\n64 GB RAM、500 GB SSD、12 core、Location1 \nBackup node-specialized box:\n64 GB RAM、500 GB SSD、12 core、Location2 \nSeed node-specialized box：\n64 GB RAM、2 TB HDD、8 core、Location3 \nNode for key exchange and management:\nmost VPS (light client-side) Location4 \n\nGroup Introduction\nWe will provide a server for EOS blockchain producers to help them run for the supernode. Since I knew blockchain 3 years ago, I have been obsessed with the usability of its software and developer community. \n\nFind us:\nGitHub\nhttps://github.com/roelandp\nTwitter\nhttps://twitter.com/roelandp\nSteemit\nhttps://steemit.com/@roelandp",
+            "zh_CN": "节点位置\nUSA, Canada, France, Germany and The Netherlands.\n服务器配置\n主节点-专用框：\n64 GB RAM、500 GB SSD、12个核心、地理位置1 \n备份节点-专用框：\n64 GB RAM、500 GB SSD、12个核心、地理位置2 \n种子节点-专用盒子：\n64 GB RAM、2 TB硬盘、8个核心、地理位置3 \n监控交换密钥和管理任务的节点：\n大多数时候VPS（轻客户端）地理位置4 \n团队介绍\n我们将为EOS运行一个区块生产者服务器，并因此要竞选EOS的超级节点。自从我3年前接触石墨烯/区块链以来，我对软件和开发者社区的易用性感到沉迷。\n现在住在阿姆斯特丹，是一个狂热的风筝冲浪者，组织活动是一个维嘉的父亲和在风车上出生并长大，在这里了解更多关于我个人生活的信息。\n联系方式\nGitHub\nhttps://github.com/roelandp\nTwitter\nhttps://twitter.com/roelandp\nSteemit\nhttps://steemit.com/@roelandp",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "roelandp1eos",
+  "public_key": "EOS5XRWPRrffCsdkyNeq5mZoaFNA2JTKPLx8x3rkPsCAUmR4wqhUx",
+  "website": "https://roelandp.nl/eos",
+  "country": "Netherland",
+  "logo": null
+}

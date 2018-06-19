@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Land",
+            "zh_CN": "EOS Land",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Server Configuration\n2 servers\n\nCPU：256 \n\nRAM：3TB \n\nSSD：3TB \n\nNETWORK：25 Gbps \n（B）TOK IPFS\nSSD：100 TB\nGroup Introduction\nWe’re located in Canada, which was hand-picked as a stable jurisdiction with strong privacy protections.\nWe boast a Tier-1 team of PhDs and IT professionals with experience running mission critical infrastructure.\nBacked by leading Canadian financial institutions.\nWe will provide unprecedented accountability, transparency, and accessibility allowing anyone to buy shares in a Block Producer.EOS Land will change the way people look at blockchain by helping to define a new generation of innovation and transparency. Backed by stable financial Canadian institutions, EOS Land will be the first entity to be a fully audited and regulated Block Producer. Alongside its focus on innovation, EOS Land is committed to following the core tenets of the EOS constitution to enhance Education, Community, and Technology.",
+            "zh_CN": "服务配置\n节点位置\nCanada, USA\n服务器配置\n2个服务器\n\nCPU：256 \n\nRAM：3TB \n\nSSD：3TB \n\n网络：25 Gbps \n\n（B）TOK IPFS存储\n\nSSD：100 TB\n团队介绍\nEOS Land（eosland.ca）是一个标志性社区，对于那些认为更美好的世界包括区块链和分散的生态系统的人来说。\n\n我们的总部位于美丽的温哥华，不列颠哥伦比亚省，加拿大，这座城市受区块链应用程序启发，如Kittycat。我们得到了加拿大主要大学IT学术界教授的支持，并得到当地DevOps专家的认可，EOS Land是在加拿大根据“不列颠哥伦比亚省合作法”运营的注册合法公司。\n\n我们在EOS Land的愿景是为现实世界的人们找到新的机会，我们相信我们正在通过引入区块链技术进入一个崭新的世界，就像克里斯托弗·哥伦布用他的发现改变了世界。我们的使命是以更低的成本建立更好的透明和负责任的标记化区块链社区生态系统，为所有人提供服务。\n联系方式\nGitHub\nhttps://github.com/eosland2018\nTwitter\nhttps://twitter.com/eosland1\nFacebook\nhttps://www.facebook.com/eosland.eos.3\nTelegram\nhttps://t.me/joinchat/Gl6KDg4bKD1itwmBwH7o7w\nSteemit\nhttps://steemit.com/@eosland\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosholdings1",
+  "public_key": "EOS4uLtAMBg8QyeMKYMVxQfrurQqfKLRnCpwWq9c8MPMk2cmdWZ8y",
+  "website": "http://eos.holdings",
+  "country": "Canada",
+  "logo": "logo-eosholdings1.png"
+}

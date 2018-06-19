@@ -1,0 +1,17 @@
+{
+  "name": { "en": "CryptoLions",
+            "zh_CN": "CryptoLions",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nPrimary node: Tier 3 datacenter in Germany\n\nBackup node: Ukraine\n\n\n\nServer Configuration\nThe capacity of hardware including RAM, storage, CPU standard and bandwidth is yet to be decided.\n\nOur current plans are exploratory. We will announce our final hardware standards in the first week of May, covering RAM, storage, CPU standard and connectivity.\n\nGroup Introduction:\nCryptoLions: A balanced integration gives birth to qualities like moderation, prudence, purity and self-control.\nRespect: EOS community and its constituents.\nAbility: Satisfy the technical, organizational and legal requirements of EOS block producers.\nHonesty: Be honest to both others and ourselves; promise based on our ability.",
+            "zh_CN": "节点位置\nPrimary node: Tier 3 datacenter in Germany\n\nBackup node: Ukraine\n\n\n服务器配置\n我们尚未决定硬件容量，包括RAM，存储，CPU规格和带宽。\n\n再次，这些是试探性的计划。我们将在5月的第一周公布我们的最终硬件规格，包括RAM，存储，CPU规格和连接性。\n\n团队介绍\nCryptoLions当它们结合在一个良好平衡的个体中时，会产生其他品质，如节制，适度，谨慎，纯洁和自我控制。\n尊重：EOS社区及其构成。\n能力：满足EOS区块生产者的技术、组织和法律要求。\n诚信：对他人和我们自己诚实，做我们说我们会做的事。",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "cryptolions1",
+  "public_key": "EOS5yHaUBwhpwFftNjADdVwBpCVybLPg5P3z7HpTbDGjUfpqwWSSf",
+  "website": "http://cryptolions.io",
+  "country": "Ukraine",
+  "logo": "logo-cryptolions1.jpg"
+}

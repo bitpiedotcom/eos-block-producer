@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOSGen",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosgenblockp",
+  "public_key": "EOS65tu7JUi74KL1JAffKYtMw6HRKnxD1LAxLBFoCvcdfBB9AMU8n",
+  "website": "https://eosgen.keybase.pub/bp.json",
+  "country": "中国",
+  "logo": null
+}

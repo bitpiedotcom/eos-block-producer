@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS eco",
+            "zh_CN": "EOS eco",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nChina, HongKong China, Japan, Canada.\n\nServer Configuration:\nTechnical standards and total estimated hardware expenditure by the end of 3rd June, 2018:\n\n1）BP major server: 8 core; 128G RAM; 512G SSD HDD AWS\n2）BP subordinate server: 8 core; 128G RAM; 512G SSD HDD AWS\n3）API server＃1: 4 core; 64G RAM; 512G SSD HDD AWS\n4）API server＃2: 4 core; 64G RAM; 512G SSD HDD AWS\n5）Server monitor: 2 core; 4G RAM; 256G HDD HDD AWS\n\nGroup Introduction:\nDedicated to incubation and community development, EOS sec works to provide services for all Dapp developers based on EOS Platform. We are now launching programs including EOS Account, EOS Server and EOS Sidechain, and providing EOSeco funds to support them.\n\nFind us:\nGitHub\nhttps://github.com/Eoseco\nTwitter\nhttps://twitter.com/Eoseco2018\nFacebook\nhttps://www.facebook.com/eoseco2018\nTelegram\nhttps://t.me/eoseco\nMedium\nhttp://medium.com/@eoseconet",
+            "zh_CN": "节点位置\nChina, HongKong China, Japan, Canada.\n服务器配置\n截至2018年6月3日的技术规格和资源总支出估算\n硬件：\n1）BP主服务器：8个核心; 128G RAM; 512G SSD硬盘驱动器AWS\n2）BP从服务器：8个核心; 128G RAM; 512G SSD硬盘驱动器AWS\n3）API服务器＃1：4个核心; 64G RAM; 512G SSD硬盘驱动器AWS\n4）API服务器＃2：4个核心; 64G RAM; 512G SSD硬盘驱动器AWS\n5）监控服务器：2个核心; 4G RAM; 256G HDD硬盘驱动器AWS\n\n团队介绍\nEOS sec致力于孵化和社区发展，为所有基于EOS平台的Dapp开发者提供服务。\n我们正在启动EOS账户，EOS浏览器，EOS侧链等项目。我们还提供EOSeco基金来支持启动EOS项目。\n\n联系方式\nGitHub\nhttps://github.com/Eoseco\nTwitter\nhttps://twitter.com/Eoseco2018\nFacebook\nhttps://www.facebook.com/eoseco2018\nTelegram\nhttps://t.me/eoseco\nMedium\nhttp://medium.com/@eoseconet",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosecoeoseco",
+  "public_key": "EOS57oitM7gnt9aU2eWCDrSzw4C9x3ez8nXE24mnVfZAD3EqPhFXf",
+  "website": "http://www.eoseco.com",
+  "country": "China",
+  "logo": "logo-eosecoeoseco.png"
+}

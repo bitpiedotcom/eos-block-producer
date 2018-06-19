@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS BlockSmith",
+            "zh_CN": "EOS BlockSmith",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Phase I: (Completed and live on May 1st)\n\nOur first bare-metal node. Located in San Francisco.\n\nData center provider: Hurricane Electric\n\nHP G8 16 cores\n256 GB RAM\n1TB solid-state storage\n256 Mbps dedicated\nThis data center comes online May 1st. If this is our primary node for launch, we will provide a backup node in another city for which details will be available later. If Phase II is complete before launch, this will be unnecessary.\n\nPHASE II\nOur second bare-metal node, located in Tulsa Oklahoma. This is intended to be our primary node before, or as soon after launch as possible. The moment this node goes live, the Phase 1 node in California becomes our backup. \n\nData center provider: TierPoint Solutions\n\nFujitsu RX\n2530 M4 56-120 Cores1+ TB\nDDR46+ TB solid-state storage1+ Gbps dedicated with multiple fiber\nproviders in the same building\nWe can scale up in this location to as many cores, ram, storage, and bandwidth as we need for a very long time.",
+            "zh_CN": "服务配置\n节点位置\nSan Francisco, Tulsa Oklahoma.\n服务器配置\n第一阶段:(完成并于5月1日生活）\n我们的第一个裸机节点。位于旧金山。\n数据中心提供商：Hurricane Electric\n惠普G8 16核心\n256 GB RAM\n1TB固态存储\n256 Mbps专用\n这个数据中心于5月1日上线。如果这是我们的主要启动节点，我们将在另一个城市提供备用节点，稍后将提供详细信息。如果第二阶段在发布前完成，则不需要备份。\n\n第二阶段：\n我们的第二个裸机节点位于俄克拉荷马州的塔尔萨。这旨在成为我们的主要节点之前或尽快启动后尽可能。此节点上线的那一刻，加利福尼亚州的第1阶段节点成为我们的备份。塔尔萨拥有大量的纤维，我们相信它相对于美国的其他BP集团来说具有非常好的主要地理位置，能够长期扩展到未来。\n数据中心提供商：TierPoint解决方案\n富士通RX2530 M4 56-120核心\n1+ TB DDR4\n6+ TB固态存储\n1+ Gbps专用\n我们可以在这个位置扩展到我们需要一段时间的尽可能多的内核，RAM，存储和带宽。\n团队介绍\nEOS BlockSmith是第一家通过承诺不向任何EOS团队，投入任何投资来保证完全财务独立的节点生产者。消除了任何潜在的利益冲突，并确保我们永远不会激励任何人在财务上为我们投票。\n我们进一步保证，我们绝不会采取任何形式的外部投资或风险投资。我们100％自筹资金，并将继续如此。\n联系方式\nTwitter\nhttps://twitter.com/eosBlockSmith\nMedium\nhttps://medium.com/@eosBlockSmith\nSteemit\nhttps://steemit.com/@eosblocksmith\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "blocksmithio",
+  "public_key": "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
+  "website": "http://eosblocksmith.io/",
+  "country": "the USA",
+  "logo": "logo-blocksmithio.jpg"
+}

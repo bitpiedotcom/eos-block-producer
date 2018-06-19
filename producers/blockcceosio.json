@@ -1,0 +1,17 @@
+{
+  "name": { "en": "BlockCC",
+            "zh_CN": "BlockCC",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nHong Kong\nConfiguration of Servers\nCPU：Intel Xeon 3.2G 4 core\n\nRAM：32-gram DDR4\n\nStorage：120G SSD\nGroup Introduction\nBlock.CC is a team dedicated to developing blockchain services to make it easier and more reliable for users to use blockchain technology in various fields. We provide technical and data services related to blockchain, and we are committed to excavating the users' needs and solving the users’ pain points to improve the user experience comprehensively by using blockchain technology. We have established a blockchain data community and hope that all the participants in the community can experience the transparency, openness and safety of blockchain technology.\nFind us on\nTwitter\nhttps://twitter.com/block_cc\nSteemit\nhttps://steemit.com/@blockcc",
+            "zh_CN": "服务配置\n节点位置\nHong Kong,\n服务器配置\nCPU：Intel Xeon 3.2G 4核\n\n内存：32克DDR4\n\n存储：120G SSD\n\n配置将根据最新的EOS更新进行动态修改。\n团队介绍\nBlock.CC是一个致力于开发区块链服务的团队，使用户能够更轻松，更可靠地在各个领域使用区块链技术。我们提供与区块链相关的技术和数据服务，我们致力于挖掘用户需求，解决用户的痛点，通过区块链技术全面提升用户体验。我们建立了区块链数据社区，希望社区的所有参与者都能体验区块链技术的透明性，开放性和安全性。\n联系方式\nTwitter\nhttps://twitter.com/block_cc\nSteemit\nhttps://steemit.com/@blockcc",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "blockcceosio",
+  "public_key": "EOS8VYW1mptsVYiy9GUQzfrM7AbCENKazjrDvv88cvKZuaoSAnR29",
+  "website": "https://eos.block.cc/",
+  "country": "China",
+  "logo": "logo-blockcceosio.jpg"
+}

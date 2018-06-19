@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosdanhuausa",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosdanhuausa",
+  "public_key": "EOS4w8ifWypqDq7rtg2SkhPvJ1h89NuDfhs3VCir5UTz3JZmvZ6D8",
+  "website": "http://www.infinitystones.io/eos/bp_info.json",
+  "country": "中国",
+  "logo": null
+}

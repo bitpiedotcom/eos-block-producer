@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Canada",
+            "zh_CN": "EOS Canada",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Founded by a team of serial tech entrepreneurs, EOS Canada is headquartered in Montreal, Canada and is backed by reputable Canadian financial players. We believe that EOS.IO will fundamentally change our economic and social systems and as such we are deeply committed to contribute to the growth of the ecosystem.\n\nWe have been actively involved in running and testing the community testnet and in the creation of the BIOS Boot sequence, as well in building various community tools necessary for the ecosystem to flourish. Our objective is to become a hub for companies, entrepreneurs and developers who want to build infrastructure and decentralized applications on top of EOS.IO. Due to our deep tech background and connections, we would like to leverage our network to help build value-add products for the EOS.IO network.",
+            "zh_CN": "服务器配置\nGoogle云端平台\n团队介绍\nEOS加拿大总部设在加拿大蒙特利尔，由知名加拿大金融企业支持。我们相信EOS.IO将资助系统，因此我们致力于为生态系统的发展做出贡献。\n\n\n我们一直积极参与运行和测试社区测试网络，创建BIOS BOOT序列，以及构建生态系统蓬勃发展所需的各种社区工具。我们的目标是成为公司，企业家和开发人员的中心，他们希望在EOS.IO之上构建基础架构和去中心化应用程序。由于我们深厚的技术背景和连接，我们希望利用我们的网络帮助为EOS.IO网络构建增值产品。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoscanadacom",
+  "public_key": "EOS5HYV7rWeRxpZMCooe8YHRFQHKK7ncdmmUMTe3wCMaY2EvyVzUx",
+  "website": "https://www.eoscanada.com/",
+  "country": "Canada",
+  "logo": "logo-eoscanadacom.png"
+}

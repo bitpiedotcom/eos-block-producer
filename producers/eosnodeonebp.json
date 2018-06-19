@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS NodeOne",
+            "zh_CN": "EOS NodeOne",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nSouth Korea, Philippines\n\nServer Configuration\nTechnical standards and total estimated hardware expenditure by the end of 3rd June, 2018:\n*type: cloud（AWS）\n*place: AWS region, Seoul\n*machine: m4.2xlarge\n* No. 1\n*RAM: 32GB \n* CPU: vCPU 8core\n*SSD 300GB \n\nThe plan for expanding hardware capacity after 3rd June, 2018:\nEOS NodeOne will adopt cloud and bare miners that are correspondent to the actual payload. The plan is as follows(one main miner, one backup): \n*Type: bare computer and cloud miner\n* NO. 2\n*RAM: 768GB \n* CPU: 2x3.4GHz 6128 6 core 12 thread processor \n*2x480GB STA SSD Intel S4\n\nFind us:\nTwitter\nhttp://twitter.com/eosnodeone\nFacebook\nhttps://www.facebook.com/eosnodeone\nTelegram\nhttp://t.me/eosnodeone_en\nSteemit\nhttp://steemit.com/@eosnodeone",
+            "zh_CN": "节点位置\nSouth Korea, Philippines\n服务器配置\n截至2018年6月3日的技术规格和资源总支出估算。\n*类型：云（AWS）\n*地点：首尔AWS地区\n*机器：m4.2xlarge实例\n* 1号\n*内存：32GB \n* CPU：vCPU 8核心\n*存储：SSD 300GB \n预计2018年6月3日之后的硬件扩展计划。\nEOS NodeOne将采用与对应的实际有效载荷配置的云机和裸机，典型的扩展方案是（1主机，1备用）：\n*类型：裸机和云\n* 2号\n*内存：768GB \n* CPU：2x3.4GHz 6128 6核12线程处理器\n*存储：2x480GB STA SSD Intel S4\n团队介绍\n联系方式\nTwitter\nhttp://twitter.com/eosnodeone\nFacebook\nhttps://www.facebook.com/eosnodeone\nTelegram\nhttp://t.me/eosnodeone_en\nSteemit\nhttp://steemit.com/@eosnodeone",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosnodeonebp",
+  "public_key": "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
+  "website": "http://www.eosnodeone.io/",
+  "country": "China",
+  "logo": null
+}

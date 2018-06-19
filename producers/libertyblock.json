@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "libertyblock",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "libertyblock",
+  "public_key": "EOS5jDCYph3hctKED9tHbe9L77q8JZToeuMnefMDdyfPkrb89FzSt",
+  "website": "http://libertyblock.io",
+  "country": "中国",
+  "logo": null
+}

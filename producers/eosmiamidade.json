@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOS Miami",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosmiamidade",
+  "public_key": "EOS5xy38sAWXZ5kStiQSKGK1mJNeKVfeJV3a3kpPRpqt1yryUsTGF",
+  "website": "http://eos.miami",
+  "country": "美国",
+  "logo": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": "eosONO",
+            "zh_CN": "eosONO",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nBeijing, Tokyo\n\nServer Configuration:\nTechnical standards and total estimated hardware expenditure by the end of 3rd June, 2018:\nAmazon EC2AWS m4.4xlarge\nCPU: 16 Core \nRAM: 64GB\nSSD: 512GB\nTotal Expenditure：$817 per month\n\nThe plan for expanding hardware capacity after 3rd June, 2018:\nAmazon EC2AWS x1e.32xlarge\nCPU: 128 Core\nRAM: 3904G\nSSD: 2 x 1900GB (The storage can be expanded based on specific demands)\nBroadband Speed: 25 Gbps\nNumber of Nodes: 2 (one livenet, one standby)\n\nGroup Introduction:\nEOS ONO is a free and decentralized social network Dapp to be issued on EOS platform, which respects and protects the diversity of human interactions.\n\nFind us:\nTwitter\nhttps://twitter.com/onosocial\nFacebook\nhttps://www.facebook.com/ONOofficial\nTelegram\nhttps://t.me/ONOCN\nWechat Public Account:\nonogogo\nMedium\nhttps://medium.com/@ONOsocial\nSteemit\nhttps://steemit.com/@onosocial",
+            "zh_CN": "节点位置\nBeijing, Tokyo\n\n服务器配置\n截至2018年6月3日的技术规格和资源总支出估算：\nAmazon EC2AWS m4.4xlargeCPU：16 CoreRAM：64GBSSD：512G​​B\n总费用：每月817美元\n2018年6月3日之后的硬件估算扩展计划：\nAmazon EC2AWS x1e.32xlargeCPU：128 CoreRAM：3904GSSD：2 x 1900GB（磁盘容量根据需要增加）网络：25 Gbps节点：共2个节点（1个livenet，1个备用）\n\n团队介绍\n我们是EOS ONO，一个免费的，分散的社交网络Dapp，它保护和尊重人类社交互动的多样性和多样性，并且即将在EOS平台上推出。\n\n联系方式\nTwitter\nhttps://twitter.com/onosocial\nFacebook\nhttps://www.facebook.com/ONOofficial\nTelegram\nhttps://t.me/ONOCN\n微信公众号\nonogogo\nMedium\nhttps://medium.com/@ONOsocial\nSteemit\nhttps://steemit.com/@onosocial",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosonoeosono",
+  "public_key": "EOS5AHfFwaJxjMPkrufw4aCTFvJJUVgpwqwvghhYrFahik7oxaXah",
+  "website": "https://www.ono.chat/eos/",
+  "country": "China",
+  "logo": "logo-eosonoeosono.jpg"
+}

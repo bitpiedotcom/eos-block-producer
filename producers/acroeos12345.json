@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "AcroEOS",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "acroeos12345",
+  "public_key": "EOS56PyKoHXwyRkwDzr2uNhgDRioPoq5TwdN8Pm2hQGko7jrup2W5",
+  "website": "http://www.acroeos.one",
+  "country": "韩国",
+  "logo": null
+}

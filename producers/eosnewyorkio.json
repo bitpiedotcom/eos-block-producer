@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS New York",
+            "zh_CN": "EOS New York",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nNorth America\nConfiguration of Servers\nOS: Linux DistrovCPU：8RAM：256-512 Storage：512GB SSD，1TB used in IPFSNetwork：1Gbps\nGroup Introduction\nEOS New York, the main manufacturer in North America. We are a self-funded team which consists of experienced professionals and are separated with outside interests. The only target of us is the success of EOS network.",
+            "zh_CN": "服务配置\n节点位置\nNorth America\n服务器配置\n产品规格\n操作系统：Linux DistrovCPU：8RAM：256-512存储：512G​​B SSD（块），1TB硬盘用于IPFSNetwork：1Gbps（并且将按需扩展）\n\n团队介绍\nEOS New York，北美的主要制造商。我们是一个由经验丰富的专业人士组成的自费团队，完全与所有外部利益分离。我们的唯一目标是确保EOS网络的成功。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosnewyorkio",
+  "public_key": "EOS6GVX8eUqC1gN1293B3ivCNbifbr1BT6gzTFaQBXzWH9QNKVM4X",
+  "website": "https://www.eosnewyork.io/",
+  "country": "America",
+  "logo": "logo-eosnewyorkio.png"
+}

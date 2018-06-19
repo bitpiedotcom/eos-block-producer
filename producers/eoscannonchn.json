@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS CANNON",
+            "zh_CN": "EOS CANNON 佳能社区",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Server configuration\nFor Testnet, we use 2 EC2 examples and AWS t2.xlarge(4 vCPU, 16GB RAM, 100GB disk). For EOS mainnet, we will use two AWS x1.32xlarge(128 vCPU，2 TB RAM，4T SSD)example,we hope to use the same configuration as the spare area of IDC bare metal.\nGroup introduction\nEOS will enable blockchain change our life in a better way, we are working to make contributions to the decentralized ecosystem of EOS. As a community that enjoys great reputation, we are willing to contect and improve the sharing between the EOS communities in both overseas and China. Besides, we are happy to encourage most domestic token holders to join the growth of global EOS community.\nEOS Cannon will be a reliable producer of blocks, and works for the community.What's more, we are planning to become a positive EOS ecosystem distributor and project incubator rather than a single EOS community, we will become an important EOS partner of China.",
+            "zh_CN": "服务器配置\n对于Testnet，我们使用2个EC2实例和AWS t2.xlarge（4个vCPU，16GB RAM，100GB磁盘）。对于EOS mainnet，我们将使用2个AWS x1.32xlarge（128 vCPU，2 TB RAM，4T SSD）的实例，我们希望使用相同的配置作为IDC裸机的备用区。\n\n团队介绍\nEOS的发展将会为区块链以更好的方式改变着我们的生活，我们努力为EOS分散式生态系统做贡献！作为一个具有很高声望的社区，我们愿意连接并促进海外和中国EOS社区之间的共享。此外，我们很乐意带领大多数国内token持有者，参与全球EOS社区的增长。\n\nEOS Cannon将是一个可靠的区块生产者，致力为社区服务。此外，我们计划成为积极的EOS生态系统贡献者和项目孵化器，而不仅仅是一个EOS社区，我们将成为中国重要的EOS合作伙伴。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoscannonchn",
+  "public_key": "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
+  "website": "https://eoscannon.io",
+  "country": "China",
+  "logo": "logo-eoscannonchn.png"
+}

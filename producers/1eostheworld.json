@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS the World LLC",
+            "zh_CN": "EOS the World LLC",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\n\nAmerica\nConfiguration of server\nOur servers will begin with 768 GB of RAM, with the capacity to upgrade to 3 TB of RAM each, on a moments notice.  All of this redundant processing and storage power connects together thanks to Arista 10 Gb/s, layer 4 switching with 24 SFP+ ports capable of 480 Gb/s throughput at 350ns of latency. Network protection provided by a Sophos enterprise grade firewall capable of 19 Gb/s firewall throughput in addition to load balancing external requests. Internet connectivity provided by dedicated, redundant fiber optic lines at 1 Gb/s upgradeable to a maximum (currently) of 10 Gb/s on a moments notice. For maximum ISP redundancy, we will be advertising our own IPv4 /24 block via BGP to the Internet allowing us to fail between service providers without changing IP addresses and giving our highest availability to the EOS network. All service providers also providing DDoS protection at the network core.",
+            "zh_CN": "节点位置\nAmerica\n\n服务器配置\n硬件和存储\n我们的服务器是全新的最先进的计算机，可以立即升级到每TB 3 TB的RAM。它们包括2.5“”SSD硬盘驱动器，4个Xeon E7-8880-2.2GHz-88核心- 176个处理线程。它们不会用于除EOS块生产之外的任何其他用途。我们将使用1 GBPS的专用冗余光纤线将它们连接到互联网，并立即通知可升级到最大（当前）10 GBPS。硬件将包括具有24个SFP端口和3层BGP对等冗余ISP的Arista 10 GB SFP +交换机。这将包括来自Arista交换机的增强型第3层路由许可证，冗余主动/主动统一威胁管理防火墙以及具有19 GBPS防火墙吞吐量的轮循负载均衡10GbE。互联网托管将是IPv4 / 24地址块（具有254个可用地址）。\n\n存储\n我们绝不会使用传统的互联网公司存储。我们将从44 x 8 TB SAS驱动器阵列开始- 12 Gb / s，一旦存储容量达到50％，就会增加。无论网络增长多快，需要多少存储空间，无论涉及多少费用，我们都将始终保持至少50％的可用空闲存储空间。\n团队介绍\n我们是一个分散式的计算机科、商业、市场营销和慈善人员团队，对EOS平台非常感兴趣。完全是自筹资金的（并且将永久保留），没有任何外部利益冲突。\n\n联系方式\nTwitter\nhttps://twitter.com/EOStheWorld\nFacebook\nhttps://www.facebook.com/groups/1334038041609\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "1eostheworld",
+  "public_key": "EOS7DtVzfmr1c5ACb7usAwyn4f39V7urk6kBWswUWCtg3H8H6CFAr",
+  "website": "https://www.eostheworld.co/",
+  "country": "Puerto Rico",
+  "logo": "logo-1eostheworld.jpg"
+}

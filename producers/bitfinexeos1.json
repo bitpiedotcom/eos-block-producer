@@ -1,0 +1,17 @@
+{
+  "name": { "en": "Bitfinex",
+            "zh_CN": "Bitfinex",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Configuration of Servers\nHP DL360 Gen 10 Server\nx CPU Intel 8180M x 2 28 core， CPU 56 thread for each（56 cores and 11 threads in total）\nx RAM 1.5tb DDR4-2666mhz\nx SSD 8 x 800GB SAS 12GB，采用Raid 6配置\nx 800 W\nx 10GB / 25GB PCI RS-SUNNET\nx 24-7 / 4小时HP 365 care packs（3 years）\nGroup Introduction\nBitfinex is pleased to present itself as an official EOS Block Producer candidate.\nFounded in 2012, Bitfinex is a digital asset trading platform offering state-of-the-art services for digital currency traders and liquidity providers. Since our inception, our focus has been on identifying and advancing the capabilities of protocol-level technologies that meet the demands of a high-volume blockchain-based trading platform. both legal and technical, and we believe we can contribute significant value to the EOS community through sharing this.\nThe Bitfinex team is composed of 100+ industry experts, including a highly-versatile development team, technical support agents, legal experts.",
+            "zh_CN": "服务器配置\nHP DL360 Gen 10服务器\nx CPU Intel 8180M x 2处理器28个内核，每个CPU 56个线程（共56个内核和112个线程）\nx内存1.5tb DDR4-2666mhz\nx光盘8 x 800GB SAS 12GB，采用Raid 6配置\nx双电源800瓦\nx 10GB / 25GB PCI光纤网卡\nx 24-7 / 4小时HP 365护理包（3年）\n\n团队介绍\nBitfinex成立于2012年，是一家数字资产交易平台，为交易商和流动性提供商提供最先进的服务。\n自成立以来，我们一直致力于识别和提升协议级技术的能力，以满足基于区块链交易平台的大量法律和技术需求，并且我们相信我们可以为EOSIO贡献巨大的价值通过分享这个社区。\n我们的团队由100多位行业专家组成，其中包括高度灵活的开发团队，技术支持代理，法律专家和热情的行业倡导者。我们的基本目标是通过密集的社区发展，研究和协作，提高去中心化数字资产空间的开源性质。\n我们作为一个区块生产者的愿景是建立一个协作孵化器，将EOSIO的潜力与我们的经验相结合，将EOSIO的研究，开发和采用提升到另一个层次。我们的团队在此过程中获得了宝贵的行业经验，我们的目标是利用这一点丰富我们周围的团队-尽可能分享信息并提供指导。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "bitfinexeos1",
+  "public_key": "EOS6sgKjHUFtY1XxxQaMDwfxBac6nDBibVzZHb8LFMVmvSjcCdDhE",
+  "website": "https://www.bitfinex.com/eos",
+  "country": "BVI",
+  "logo": "logo-bitfinexeos1.png"
+}

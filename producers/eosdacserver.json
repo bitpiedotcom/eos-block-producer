@@ -1,0 +1,17 @@
+{
+  "name": { "en": "eosDAC",
+            "zh_CN": "eosDAC",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service Configuration\nthe location of nodes：\nthe United Kingdom, Romania, Gibraltar and South Korea.\nServer Configuration\neosDAC will be able to scale block producer nodes up to 2TB RAM, 10GB bandwidth and 50TB storage within hours of those requirements being identified. \n\nGroup introduction\n\nA Decentralised Autonomous Community (DAC) is governed by its constitution, which is encoded in smart contracts on the blockchain. This revolutionary way of bringing a community together as a cooperative is made possible by the EOS software. The DAC is controlled by its token holders and the board members they vote to run its operations.\n\nIt is the vision of eosDAC that EOS.IO block production should be open for everyone to contribute and benefit. To realise this vision, eosDAC is an evolving Decentralised Autonomous Community (DAC) focused on EOS.IO Block Production serving the EOS communities worldwide. In doing this, eosDAC will create the tools and smart contracts it needs to functio",
+            "zh_CN": "服务配置\n节点位置\nthe United Kingdom, Romania, Gibraltar and South Korea.\n服务器配置\neosDAC will be able to scale block producer nodes up to 2TB RAM, 10GB bandwidth and 50TB storage within hours of those requirements being identified. \n团队介绍\neosDAC是一个通过区域链上的智能合约编码，分权自治的社区。通过EOS软件，使社区成为合作社的一种革命性方式成为可能。DAC由它的token持有者和董事会成员控制，他们投票运行它的运营。\nEOSD.IO的愿景是区块生产者，应该开放给每个人贡献和受益。为了实现这一愿景，eosDAC将成为一个不断发展的去中心化自治社区（DAC），致力于成为为全球EOS社区提供服务的领先EOS.IO Block Producer。\n在此过程中，eosDAC将创建所需的工具和智能合约。它将与EOS社区分享这些信息，以帮助其他DAC在EOS.IO区块链上蓬勃发展。\neosDAC将于2018年6月初在EOS区块链上作为DAC推出，直到eosDAC由其发射团队运行为止。发射团队的成员在过去6个月中，深入参与了EOS社区并在EOS社区测试网上开发了多个模块。目前，eosDAC token存在于 ETH 区块链中，一旦它运行，这些token就会转移到EOS区块链上。\n联系方式\nTwitter\nhttps://twitter.com/eosdac\nFacebook\nhttps://www.facebook.com/eosdac/\nTelegram\nhttps://t.me/eosdacio\nSteemit\nhttps://steemit.com/@eosdac\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosdacserver",
+  "public_key": "EOS7aBPDACAn1SpJDjmaZHSEUgqfNWdUaNawVZhVuEWUx5aoepJf6",
+  "website": "https://eosdac.io/",
+  "country": "The West Indies",
+  "logo": "logo-eosdacserver.png"
+}

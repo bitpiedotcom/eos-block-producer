@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eostexasserv",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eostexasserv",
+  "public_key": "EOS4uNBP58NbnDTo32Cra7Z7Qr5sVDYYryb9j65dNe2dGnKjDzEYv",
+  "website": "http://www.eostex.com",
+  "country": "中国",
+  "logo": null
+}

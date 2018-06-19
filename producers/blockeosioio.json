@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "BlockEOS.io",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "blockeosioio",
+  "public_key": "EOS7MzRDHurvE4SV4svK9rquuCeaj8Zz9HrhSUjnFx4G84EK58tWp",
+  "website": "https://blockeos.io",
+  "country": "美国",
+  "logo": null
+}

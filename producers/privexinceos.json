@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "Privex Inc",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "privexinceos",
+  "public_key": "EOS7UU7G3gAzaT2gQ2nBJeJCbCx1e7cUj5GWnNBULQCXD61cj62zL",
+  "website": "https://bp.privex.io",
+  "country": "伯利兹",
+  "logo": null
+}

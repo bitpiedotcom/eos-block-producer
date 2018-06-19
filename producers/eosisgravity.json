@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Gravity",
+            "zh_CN": "EOS Gravity引力区",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Configuration of Servers\nMaster Server: \n•	PowerEdge R730xd \n•	4 CPUs Intel® Xeon®\n•	128G * 2 (2400 MHz) \n•	300G*2(System Disk) 7.2k rpm \n•	512G*1(data disk)SSD \n•	Dual Power \nSlave Server: \n•	PowerEdge R730xd \n•	4 CPUs Intel® Xeon®\n•	128G * 2 (2400 MHz) \n•	300G * 2(System Disk) 7.2k rpm \n•	512G * 1(Data Disk) SSD \n•	Dual Power \nSwitch: H3C S5130 48 Ports * 2 \nWAF: WebRAY Ray-WAF-1006P(The purchase of license is required)  \nGroup Introduction\nBased in Shanghai, China, EOS Gravity is a blockchain ecological community that has gathered a lot of blockchain and EOS followers. The community is committed to provide help for those who are interested in blockchain technology and to encourage larger scale of participation through our in-depth analysis and clear guidance in blockchain technology and EOS public chain. Also, we contribute to the development of EOS ecosystem by providing insightful comments , latest news, as well as professional technical support.",
+            "zh_CN": "服务器配置\n主服务器：\nPowerEdge R730xd\n4个CPUIntelXeon\n128G * 2（2400 MHz）\n300G * 2（系统磁盘）7.2k rpm\n512G * 1（数据磁盘）SSD\n双电源\n\n从服务器：\nPowerEdge R730xd\n4个CPUIntelXeon\n128G * 2（2400 MHz）\n300G * 2（系统磁盘）7.2k rpm\n512G * 1（数据磁盘）SSD\n双电源\nSwitch：H3C S5130 48端口* 2\n\n团队介绍\n总部位于中国上海的EOS Gravity是一个区块链生态社区，聚集了大量区块链和EOS追随者。该社区致力于为区块链技术感兴趣的人士提供帮助，并通过我们对区块链技术和EOS公共链的深入分析和明确指导鼓励更大规模的参与。\n\n此外，我们通过提供富有洞察力的评论，最新消息以及专业技术支持，为EOS生态系统的发展做出贡献。未来，EOS Gravity将致力于开发EOS社区，重点关注价值信息、技术讨论、离线研讨会、高峰论坛和生态系统的Dapp等各个方面，这些都为过渡到一个全新的世界。\n\n我们的价值观：安全，团结，高级和繁荣。\n我们的使命：为快速发展的EOS行业做出贡献。\n我们的未来前景：成为全球领先的EOS社区。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosisgravity",
+  "public_key": "EOS55HTTjoxVX1zVpW8pabxygBb1J3SEnG5D8D3y3KgrnSbLpELfE",
+  "website": "http://eosfans.one/",
+  "country": "China",
+  "logo": "logo-eosisgravity.png"
+}

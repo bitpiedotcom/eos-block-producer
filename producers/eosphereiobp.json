@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSphere",
+            "zh_CN": "EOSphere",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of nodes\nSydney and Singapore\n\nconfiguration of servers\nWe will apply X1e examples to our AWS VPC, these examples can be extended to 128 vCPU, 3.9 TB RAM and 3.8 TB SSD. \nWe will apply 1-highmem-X or n1-megamem-X to our GCP VPC, these examples can be extended to 96vCPU, 1.4 TB RAM and 3 TB SSD.\n\nGroup introduction\nProfessionality, trust, transparency, committment, cooperation and independence, EOSphere has all the expected characteristics of EOS.\n\n We believe our great experience will encourage the confidence of EOS stakeholders, Dapp developers and EOS blockchain business, and to provide support to the start and operation of EOS.IO blockchain community, at the same time to support us to become the global member of EOS community. Although we are located in Australia, our goal it to serve the whole EOSphere.\nFind us on\nTwitter\nhttps://twitter.com/eosphere_io\nSteemit\nhttps://steemit.com/@eosphere",
+            "zh_CN": "节点位置\nSydney and Singapore\n\n服务器配置\n我们将在我们的AWS VPC中使用X1e类实例，这些实例能够扩展到128个vCPU，3.9 TB RAM和3.8 TB SSD存储;我们将在我们的GCP VPC中使用n1-highmem-X或n1-megamem-X实例，这些实例可以扩展到96vCPU，1.4 TB RAM和3 TB SSD存储。\n\n团队介绍\n专业诚信、透明度、承诺、合作和独立性，EOSphere拥有EOS所期望的所有特征。\n我们相信久经考验的经验，将激发对EOS利益相关方、Dapp开发商和EOS区块链业务的信心，为EOS.IO区块链的社区启动和持续运营以及治理提供支持，同时支持我们地区成为EOS社区的全球成员。虽然基于澳大利亚，我们的目标是服务于整个EOSphere！\n\n联系方式\nTwitter\nhttps://twitter.com/eosphere_io\nSteemit\nhttps://steemit.com/@eosphere\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosphereiobp",
+  "public_key": "EOS5FYRrG3ThNU56d3uZ8d4bo4MsN5Fig9WPY3xYSpH3RqPhpoH3A",
+  "website": "https://www.eosphere.io/",
+  "country": "Australia",
+  "logo": "logo-eosphereiobp.jpg"
+}

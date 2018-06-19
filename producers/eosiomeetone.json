@@ -1,0 +1,17 @@
+{
+  "name": { "en": "MEET.ONE",
+            "zh_CN": "MEET.ONE",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Server Configuration\nthe configuration of MEET.ONE super nodes\nHere is the configuration of the server cluster:\n2 AWS r4.2xlarge(8 vCPU，61GB), 4 AWS x1e.2xlarge(8 vCPU，244GB),1 AWS x1.32xlarge (128 vCPU，2TB内存，4TB SSD)and a Cloudflare.\nGroup Introduction\nMEET.ONE is a Singapore’s EOS block producer candidate and is dedicated to building the EOS ecological portal.\n\nOur team has solid technical strength. The core members are all from top Internet companies and have billions of users of development and operational experience. MEET.ONE actively contributes to EOS ecology.\n\nIn the future, MEET.ONE side chain will be launched as Dapp incubator to provide the EOS development environment.\n\nThe MEET.ONE community upholds the values of co-construction, contribution, and equality, and currently has more than 100,000 members.",
+            "zh_CN": "服务器配置\nMEET.ONE超级节点配置。\n服务器集群的配置如下:\n1台AWS r4.2xlarge用于账户相关交易的签名服务。\n1台AWS r4.2xlarge用于负载均衡。\n4台AWS x1e.2xlarge用于实时同步EOS主网数据并对外提供REST API使用。\n1台AWS x1.32xlarge用于出块。\n1台Cloudflare用于抵抗潜在的DDoS等网络攻击。\nr4.2xlarge: 8 vCPU，61GB内存。\nx1e.2xlarge: 8 vCPU，244GB内存。\nx1.32xlarge: 128 vCPU，2TB内存，4TB SSD。\n具体上几个集群看实际需要。block.one有更好的推荐配置，我们会随时调整。\n团队介绍\nMEET.ONE 是新加坡 EOS 全球节点竞选团队，致力于构建 EOS 生态入口。\n团队具有坚实的技术实力，核心成员均来自顶级互联网公司，拥有亿级用户开发和运营经验。MEET.ONE 积极为生态做贡献。\n2月，开发了首个微信小程序-EOS小助手，帮助用户学习映射并验证结果，保障资产安全，目前已有数十万用户。\n3月，参与组建了 Scholar Testnet，并首先完成 BIOS BOOT 测试。\n4月，为全球用户开发了Chrome 插件 EOS KIT，集合了 EOS 全球资讯精选、Twitter 账户速览、Dapp 列表和 BP 列表等功能。\n5月，APP 客户端已在内测，可进行 EOS 资产管理、节点投票、Dapp 入口和资讯速览等功能。\n未来，将发起 MEET.ONE 侧链，提供 EOS 开发环境孵化 Dapp。\nMEET.ONE 社区秉持共建、贡献、平等的价值观，目前已覆盖数十万用户。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosiomeetone",
+  "public_key": "EOS5gS4ZtanRS2Jx4vpjAQaVNci3v65iZiGCgMr9DNwu67x2pt8Qd",
+  "website": "https://meet.one/",
+  "country": "Singapore",
+  "logo": "logo-eosiomeetone.png"
+}

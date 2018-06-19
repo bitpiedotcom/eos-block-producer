@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSREAL",
+            "zh_CN": "EOSREAL",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nIslamabad, Pakistan and Melbourne, Australia, expanding to any location\nConfiguration of Servers\n•	Server Model: PowerEdge R940 Server\n•	CPU: Intel Xeon E5-2699 v\n•	RAM: 32GB\n•	SSD: 3.84TB(2x1.92TB SSD SATA Read intensive 6Gpbs 512n 2.5 inchHot pluggable disc, Hawk-M4R,1 DWPD,3504 TBW)\n•	Bandwidth: 1Gbps\n•	Additional Network Card: Broadcom 57414 twin port 25Gb, SFP28, PCIe adapter, full height\n•	Host Bus Adapter: Emulex LPE 12002, twin port 8GB fibre channel HBA\nGroup Introduction\nEOSREAL is headquartered in Singapore and has a team spread out in 3 continents-from populous countries like US and China to those with lower populations such as Singapore and Australia; from developed countries to emerging ones like Pakistan; and across three different law systems including Common Law, Continental Law and Muslim Law. \n\nEOSREAL can deal with the technical set up and operations of BP servers.",
+            "zh_CN": "节点位置\nIslamabad, Pakistan and Melbourne, Australia, expanding to any location\n服务器配置\n在测试期间，我们将AWS Mumbai m5.4xlarge与v16,64G Ram和1,000GB固态硬盘以及10GB宽带连接在一对测试网上。\n6月3日前的初步计划\n\n“服务器型号：PowerEdge R940服务器\nCPU：Xeon E5-2699A v4\n处理器核心：Docosa核心（22核心）\nRAM：256GB\nSSD：3.84TB（2x1.92TB SSD SATA读取密集型6Gpbs 512n 2.5英寸可插拔光盘，Hawk-M4R，1 DWPD，3504 TBW）\n带宽：1Gbps\n附加网卡：Broadcom 57414双端口25Gb，SFP28，PCIe适配器，全高\n“主机总线适配器：Emulex LPE 12002，双端口8GB光纤通道HBA\n预计缩放计划\n\n通过平衡的云服务器+不同功能的裸机服务器（生产者，备份，存储，应用服务器等），并且需要构建的方法来扩展硬件性能以及位置多样化。\n团队介绍\nEOSREAL总部位于新加坡，拥有一支来自世界各地的3人团队，如新加坡和澳大利亚;从发达国家到巴基斯坦等新兴国家;法律，大陆法和穆斯林法。\n在最初阶段，我有能力在同一阶段成立和监管机构。我们计划在巴基斯坦的伊斯兰堡和澳大利亚的墨尔本设立我们自己的托管服务器和本地的云服务器。\n联系方式\nTwitter\nhttps://twitter.com/EOSREAL_IO\nTelegram\nhttps://t.me/joinchat/G6-t7RKGUdGWu-Q8MA5IKg\nMedium\nhttps://medium.com/@EOSREAL_IO\nSteemit\nhttps://steemit.com/@eosreal-io\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosrealbpcsg",
+  "public_key": "EOS6fcpQu16GAASdLwK6BbTQTMK5EZSh1ecci2oKQJdioQvxp8DRs",
+  "website": "http://eosreal.com/",
+  "country": "Singapore",
+  "logo": "logo-eosrealbpcsg.jpg"
+}

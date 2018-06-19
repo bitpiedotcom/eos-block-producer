@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Nation",
+            "zh_CN": "EOS Nation",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nCanada\nConfiguration of Servers\nBP “assigned”：\nNode 1x EC2（x1.32xlarge）\nvCPU 128 \n2TB RAM\n（IPFS）2 x 1920GB（SSD）\n25 Gbps\n\nBP “elected”：\nNode 1x EC2（x1.32xlarge）\nvCPU 128 \n2TB RAM\n（IPFS）2 x 1920GB（SSD）\n25 Gbps\n\n\nGroup Introduction\nOur mission is to bring together all members of the EOS community under one project accessible in jurisdictions around the world. We strive to share our vision for the future of EOS through education, engagement and support.\nWe are members of the community, we believe that this technology will benefit us and the society.\nOur goal is to represent each of you and to give you the highest right to speak. We will become your voice in the community and have your projects at heart.",
+            "zh_CN": "服务配置\n节点位置\nCanada\n服务器配置\nBP“任命”：\n节点1x EC2（x1.32xlarge）\nvCPU 128内核\n内存2TB RAM\n存储（IPFS）2 x 1920GB（SSD）\n网络25千兆\n\nBP“当选”：\n节点2x EC2（x1.32xlarge）\nvCPU 128内核\n内存2TB RAM\n存储（ipfs）2 x 1920GB（SSD）\n网络25千兆\n团队介绍\n我们是一群敬业，热情和雄心勃勃的团队，致力于为保护EOS平台及其社区作出积极贡献。\n\n我们是社区的成员，我们坚信这项技术及其对我们社会和我们每个人的有利影响。\n\n我们的目标是代表你们每个人，给你最高层的发言权。我们将成为您在社区中的声音，我们将把您的项目放在心上。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosnationftw",
+  "public_key": "EOS8PkNNBYU1xnbcjBUNm1mT6N68QiGvCDgPT97rqurLBEjDanSXK",
+  "website": "https://eosnation.io/",
+  "country": "Canada",
+  "logo": "logo-eosnationftw.png"
+}

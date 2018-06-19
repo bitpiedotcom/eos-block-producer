@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSBeijing",
+            "zh_CN": "EOSBeijing",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Server Configuration\nBefore June 3\n\nMaster server\nCPU: Intel Xeon 64 core\nRAM: 256 Gb\nDisk : 4000 Gb SSD\nNetwork: 200 Mbps Bgp multi-line\nDual-node backup",
+            "zh_CN": "服务器配置\nBefore June 3\n\nMaster server\nCPU: Intel Xeon 64 core\nRAM: 256 Gb\nDisk : 4000 Gb SSD\nNetwork: 200 Mbps Bgp multi-line\nDual-node backup\n\nBackup server\nCPU: Dual Intel Xeon 32 core\nRAM: 256 Gb\nDisk: 500Gb hard disk + 10 Tb 7200 hard disk (dynamic increase when needed)\nNetwork: 200 Mbps Bgp multi-line\n\nAfter June 3\n\nMaster server\nCPU: Intel Xeon 64 core\nRAM: 1024 Gb\nDisk: 4000 Gb SSD\nNetwork: 200 Mbps Bgp multi-line\nDual-node backup\n\nBackup server\nCPU: Dual Intel Xeon 32 core\nRAM: 1024 Gb\nDisk: 500Gb hard disk + 10 Tb 7200 hard disk (dynamic increase when needed)\nNetwork: 200 Mbps Bgp multi-line\n\nFull-node server\nCPU: Dual Intel Xeon 32 core\nRAM: 1024 Gb\nDisk: 512 Gb SSD\nNetwork: 200 Mbps Bgp multi-line\n团队介绍\nEOS Beijing将与大学合作研究项目和各种区块链社区团体,支持EOS-related学术研究和促进EOS意识和采用。的支持与合作交流、账户、cryptocurrency媒体,和其他元素的生态系统,我们将能够对EOS的成功做出了重大贡献。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosbeijingbp",
+  "public_key": "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
+  "website": "http://www.eosbeijing.one/",
+  "country": "China",
+  "logo": "logo-eosbeijingbp.png"
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosvenezuela",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosvenezuela",
+  "public_key": "EOS88r3in9hPXhWwwvjjSsVwcy9hdRQHKtG8zc2FtxFTt7Uo6WmR2",
+  "website": "https://eosvenezuela.io",
+  "country": "中国",
+  "logo": null
+}

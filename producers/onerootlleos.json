@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSROOT",
+            "zh_CN": "ONEROOT",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nShanghai\nConfiguration of Servers\nEC2 \nAWS m4.2xlarge \nCPU：2.3 GHz Intel Xeon E5-2686 2.4 GHz Intel Xeon E5-2676 v3（Haswell），4 core\nRAM：8GB \nSSD：512GB \nNetwork：1,00 Mbps \n\nEBS\nSSD：512GB\nGroup Introduction\nONEROOT is established in 2007, and has taken the first step in achieving its ambitions with the support of many co-builders. In the days to come, we shall try our best to live up to your trust and expectation and do everything we can to build an entirely new economic system.\nAs a super node candidate, our target is a cooperation incubation and set EOS as a part of co-builder. ONEROOT will help to the research and advertisement in Shanghai.\nFind us on\nTwitter\nhttps://twitter.com/OneRootNetwork\nTelegram\nhttps://t.me/OneRootProject\nMedium\nhttps://medium.com/@oneroot\nReddit\nhttps://www.reddit.com/r/OneRoot",
+            "zh_CN": "节点位置\nShangHai\n服务器配置\nONEROOT将使用2台具有以下规格的服务器：\nEC2 \nAWS m4.2xlarge \nCPU：2.3 GHz Intel Xeon E5-2686 2.4 GHz Intel Xeon E5-2676 v3（Haswell），4核\n内存：8GB \nSSD：512GB \n网络：1,00 Mbps \n\nEBS存储\nSSD：512GB\n团队介绍\nONEROOT成立于2017年，在众多共同建设者的支持下实现了雄心壮志迈出的第一步。在未来的日子里，我们将尽力履行您的信任和期望，并尽我们所能建立一个全新的经济体系。\n\n我们作为一个超级节点候选人的愿景是合作孵化器，将EOS作为共同建设者的一部分。ONEROOT将有助于在上海的封锁之家进行研究和宣传。\n联系方式\nTwitter\nhttps://twitter.com/OneRootNetwork\nTelegram\nhttps://t.me/OneRootProject\nMedium\nhttps://medium.com/@oneroot\nReddit\nhttps://www.reddit.com/r/OneRoot\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "onerootlleos",
+  "public_key": "EOS5M8hMCHdQwVXKqCfvF9oxmunDj33t9mDHaDRB5rgTV5rjL2X2U",
+  "website": "https://www.oneroot.io/en",
+  "country": "China",
+  "logo": "logo-onerootlleos.jpg"
+}

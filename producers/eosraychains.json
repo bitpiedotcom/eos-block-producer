@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSRaychain",
+            "zh_CN": "EOSRaychain",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nHong Kong, Singapore, New York\nConfiguration of Servers\nWe plan to set one mainnet and at least two backup server.\nTechnical specification:\nmainnet：AWS Cloud：32 CPU core，100GB RAM 100 GB SSD and 1G bps\nbackup：Ali Cloud：ecs.sn2ne.large，32 CPU，120GB RAM，100GB SSD，500Mbps\nAWS Cloud：32 CPU，100GB RAM，100GB SSD，500Mbps\nDefense system: We have abundant experience and resources to protect us from the attack of DDos/CC hacker. The mainnet sever can automatically switch to backup nodes through smart DNS and load balancing.\nAfter 3rd June 2018,\nWe will add 4 servers to the backup nodes and enlarge the bandwidth of the master node to 2G.\nGroup Introduction\nEOS India team has professional knowledge of leading technologies, strategies and business.\nFind us on\nTwitter\nhttps://twitter.com/EosRaychain\nFacebook\nhttps://www.facebook.com/EosRaychain\nTelegram\nhttps://t.me/EosRaychain\nSteemit\nhttps://steemit.com/@eosraychain",
+            "zh_CN": "节点位置\nHong Kong, Singapore, New York\n服务器配置\n截至2018年6月3日的技术规格和资源总支出估算：\n\n我们计划部署一个主服务器和至少两个备份服务器。我们列出的硬件规格是基于社区反馈的动态规模变化\n\n技术规格：\n主服务器：AWS云：32个CPU核心，100GB RAM 100 GB SSD和1G带宽。\n备份服务器：阿里云：ecs.sn2ne.large，32个CPU，120GB RAM，100GB固态硬盘，500MB带宽。\nAWS Cloud：32个CPU，100GB RAM，100GB固态硬盘，500MB带宽\n防御系统：我们有丰富的经验和资源来保护我们免受DDoS / CC黑客攻击。主服务器可以通过智能DNS和负载均衡自动切换到备份服务器节点。\n2018年6月3日之后的硬件估算扩展计划：\n我们将增加4台服务器到备份节点，并将主节点带宽增加到2G。\n团队介绍\nEOS印度团队汇集了来自各领域领先组织的技术，战略和业务方向的专业知识。\n联系方式\nTwitter\nhttps://twitter.com/EosRaychain\nFacebook\nhttps://www.facebook.com/EosRaychain\nTelegram\nhttps://t.me/EosRaychain\nSteemit\nhttps://steemit.com/@eosraychain\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosraychains",
+  "public_key": "EOS7heWdmdsEHDh4TcV6oUWCNTnnToNf6KxtjKLg9bUZwnxHdhmYT",
+  "website": "https://eosraychain.com/",
+  "country": "China",
+  "logo": "logo-eosraychains.jpg"
+}

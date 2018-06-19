@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eospaygatebp",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eospaygatebp",
+  "public_key": "EOS61MMRqiYj5Y2F6GYzHFWb2FVwdCMeFpZf8rLA3eDRosSnK4nNN",
+  "website": "https://www.eospay.host",
+  "country": "中国",
+  "logo": null
+}

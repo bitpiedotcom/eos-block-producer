@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "dposclubprod",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "dposclubprod",
+  "public_key": "EOS8AJ1rum6Z8k4sfHe9JM6PkJ2UTi8RDxp5WTy6qCd4mkfMCv5gy",
+  "website": "https://dpos.club/bp.json",
+  "country": "中国",
+  "logo": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "philippinebp",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "philippinebp",
+  "public_key": "EOS76UAdwK6qUcYH7BkxczdQn1KykW6ujKkF6dmJw6HiCx8Sp3sMb",
+  "website": "https://eosph.io",
+  "country": "中国",
+  "logo": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOS Japan",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": "节点服务器配置方案：\nAWS云服务器\n主服务器：16个内核;256G RAM; 1T SSD；3Gbps\n从服务器：16个内核；64G RAM；1T SSD；3Gbps\n监控服务器：2个内核；4G RAM；500G SSD；100M\n主网上线后扩展\n28个内核；1952G RAM；50TB SSD\n\nEosJapan是由日本币圈精英联合发起的超级节点竞选团队，推动EOS在日本的发展，助EOS早日上日本交易所。创始团队包括日本币圈女王Shizuka Nakamura；日本知名区块链项目的CTO、百万级大V Arata；行业经验10年以上，NTT docomo技术专家五十嵐等。\nEOSJapan的主要任务：EOS在日本的宣传和推广，助EOS早日上日本交易所\nEOSJapan的长期目标：让EOS在日本民中获得普及及广泛认可，让日本这个数字货币大国顺利参与到EOS全球生态的建设中来，日本不应该缺席EOS。之后，我们也会努力成为日本与海外币圈沟通的桥梁\n联系方式：\nTwitter：https://twitter.com/EosJapancojp\nFacebook：https://www.facebook.com/groups/222839938478527\nSteemit：https://steemit.com/@eosjapancojp\nTelegram：https://t.me/eos_japan\nMail：eosjapancojp@yahoo.co.jp",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosjapanclub",
+  "public_key": "EOS5dCcHYR9EQyibQ8NFvqyAKT9YfdAs5ynwtQ8krn22QNwHe6awx",
+  "website": "http://eosjapan.co.jp",
+  "country": "日本",
+  "logo": "logo-eosjapanclub.png"
+}

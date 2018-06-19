@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Tribe",
+            "zh_CN": "EOS Tribe",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Configuration of Servers\n1.	Cisco CISCO891-K9 891 Gigabit Ethernet Security Router\n2.	Intel Xeon Phi 3120A Heptapentaconta-core (57 Core) 1.10 GHz Coprocessor\n3.	Intel Xeon Phi 3120A Heptapentaconta-core (57 Core) 1.10 GHz Coprocessor\n4.	RAM 448 GB equally divided between servers. (Upgrades to RAM in primary)\nThis location runs Ubuntu v16.04 on Enterprise Dell PowerEdge R710 2.93GHz 8-Core Server | 64GB RAM | 9TB of internal storage. We are planning on upgrading the RAM shortly after launch to match the primary backup node RAM size and adding a file server with at least an additional 40 TB of storage as well. \nGroup Introduction\nEOS Tribe is a distinguished block producer candidate focused on blockchain infrastructure and software. \nThe Tribe was founded on a common goal of being purposeful with the time we have on this Earth. We believe deeply in the power of decentralized systems and their potential to create positive social and economic change.",
+            "zh_CN": "服务器配置\n主节点\n思科CISCO891-K9 891千兆以太网安全路由器\n英特尔至强融核3120A Heptapentaconta核心（57核心）1.10 GHz协处理器\n英特尔至强融核3120A Heptapentaconta核心（57核心）1.10 GHz协处理器\nRAM 448 GB在服务器之间平均分配。（升级到主内存）\n辅助节点\n此位置在企业戴尔PowerEdge R710 2.93GHz 8核服务器|上运行Ubuntu v16.04 64GB RAM |内部存储9TB。我们计划在启动后不久升级RAM，以匹配主备份节点RAM大小，并添加至少还有额外40 TB存储的文件服务器。\n团队介绍\nEOS Tribe是一个专注于区块链基础设施和软件的杰出超级节点候选人。总部位于怀俄明州，在德克萨斯州达拉斯和犹他州盐湖城设有卫星办公室。\n\n我们的使命是为启动的EOS网络提供全球性的企业级基础设施，并且建立在共同的基础上，与我们在地球上的时间有目标的目标。\n\n我们深信分权制度的力量及其创造积极的社会和经济变革的潜力。我们是EOS节点竞选团队，希望赋予生态系统中为特定目标工作的使命Dapp和项目。",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eostribeprod",
+  "public_key": "EOS6J5d6rwHJYPZnuv7KRrf5cekTf3atRTjMgbU1YMKuNnrgGvEdE",
+  "website": "https://eostribe.io/",
+  "country": "America",
+  "logo": "logo-eostribeprod.png"
+}

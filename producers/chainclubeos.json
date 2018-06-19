@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "chainclubeos",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "chainclubeos",
+  "public_key": "EOS6bTR5gkBdGQhbM6uFYMYdc2kugU2FUA3XD5soHSCt1pXbGjHjn",
+  "website": "http://eosio.university/",
+  "country": "中国",
+  "logo": null
+}

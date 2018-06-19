@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Aegentina",
+            "zh_CN": "EOS Argentina",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service Configuration\nthe location of nodes：\nno\nServer Configuration\nnot listed\nGroup Introduction\nOur main goal is to promote Blockchain adoption through the use of EOS in a country that is already famous for being “Blockchain friendly”, and emulate this success in other parts of South America. We believe that our continent is in urgent need for Blockchain Transparency.\nFind us on:Twitter\nhttps://twitter.com/EosArgentina\nFacebook\nhttps://www.facebook.com/groups/6108327225889\nSteemit\nhttps://steemit.com/@eosargentina",
+            "zh_CN": "服务配置\n节点位置\n无\n服务器配置\n未注明。\n团队介绍\nEOS阿根廷，主要目标是通过在一个已经以“区块链友好”而闻名的国家推广使用EOS，并在南美其他地区效仿这一成功举措，推动区块链的采用，我们相信我们大陆迫切需要区块链透明度。\n联系方式\nTwitter\nhttps://twitter.com/EosArgentina\nFacebook\nhttps://www.facebook.com/groups/6108327225889\nSteemit\nhttps://steemit.com/@eosargentina",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "argentinaeos",
+  "public_key": "EOS7jq4FHrFrtCXxpRQ39dBeDMa5AjM4VaRbqBECkSa5aZnizJzrx",
+  "website": "https://www.eosargentina.io/",
+  "country": "Argentina",
+  "logo": "logo-argentinaeos.png"
+}

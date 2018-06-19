@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSAntPool",
+            "zh_CN": "EOSAntPool",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nHongKong\n\nServer Configuration\n（Main）：x1e.32xlarge，vCPU：128，RAM：3904GB，SSD：2 * 1920GB，CPU：Intel Xeon E5-2686 v4，bandwidth：25Gbps，EBS bandwidth：14Gbps \n（backup）：x1e.32xlarge，vCPU：128，RAM：3904GB，SSD：2 * 1920GB，CPU：Intel Xeon E5-2686 v4，bandwidth：25Gbps，EBS bandwidth：14Gbps\n\nGroup Introduction\nSince launched in August 2014, AntPool has won users' support and trust with its user-friendly interface, safe and stable performance, high efficiency and thoughtful services. Currently AntPool engages itself in hashrates maintenance and the construction of communities including Bitcoin, Litecoin and Dash. \n\nFind us:\nTelegram\nhttp://t.me/AntPoolEOSUS\nSteemit\nhttps://steemit.com/@antpool",
+            "zh_CN": "节点位置\nHongKong\n服务器配置\n（Main）实例大小：x1e.32xlarge，vCPU：128，内存：3904GB，SSD：2 * 1920GB，CPU：Intel Xeon E5-2686 v4，网络带宽：25Gbps，EBS带宽：14Gbps \n（备用）：x1e.32xlarge，vCPU：128，内存：3904GB，SSD：2 * 1920GB，CPU：Intel Xeon E5-2686 v4，网络带宽：25Gbps，EBS带宽：14Gbps\n团队介绍\n自2014年8月上线以来，AntPool已经通过用户友好的界面，安全稳定的性能，高效和贴心的服务获得了大量用户的支持和信任。目前，在比特币，Litecoin和Dash等大型hashrates中，AntPool进行hashrates维护和社区建设。\n联系方式\nTelegram\nhttp://t.me/AntPoolEOSUS\nSteemit\nhttps://steemit.com/@antpool",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosantpoolbp",
+  "public_key": "EOS6F9hDeGD3unoq67N9pmLVXKvsLTqi7wx3Ly9kxq4fZB3qLTjcs",
+  "website": "https://eosantpool.com",
+  "country": "China",
+  "logo": null
+}

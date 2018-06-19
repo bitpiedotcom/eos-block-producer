@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosBarcelona",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosbarcelona",
+  "public_key": "EOS7mJMjmgGNzRgV2zgbBXtTQDCZMySapBohtjoiPa2GbSitM8SfB",
+  "website": "http://eosbarcelona.com",
+  "country": "西班牙",
+  "logo": null
+}

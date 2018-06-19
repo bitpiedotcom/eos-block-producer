@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "Staked",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "stakedstaked",
+  "public_key": "EOS8mqUDLnCjeXQpqTWzSjcr3FoXNDKrXo7W5qJGPrgpxjEH2KLUm",
+  "website": "https://staked.us",
+  "country": "未知",
+  "logo": null
+}

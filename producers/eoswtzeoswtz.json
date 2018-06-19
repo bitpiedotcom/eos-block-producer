@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS WTZ",
+            "zh_CN": "EOS WTZ",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nAmerica\n\nServer Configuration:\nMajor Server: Intel Xeon E5-2696 v4 @ 2.20GHz\nCPU: 22 vCPU core\n32GB RAM\nSSD: Local PCIe 3.0 \nBandwidth: 1000 Mbps\nSSD: 2048GB\n\nBackup Server:\nIntel Xeon Platinum 8173M @ 2.00GHz\nCPU: 28 vCPU core\n64GB RAM\nSSD: Local PCIe 3.0\nBandwidth: 1000 Mbps\nSSD: 2048GB\n\nGroup Introduction:\nEstablished in November 2017, EOS WTZ is committed to building a respected platform for blockchain knowledge sharing. We work to build the most influential blockchian community that serves tens of millions of people through various forms such as blockchain knowledge sharing, original content output, interactive blockchain community and blockchain incubators.\n\nFind us:\nTwitter\nhttps://twitter.com/eos_wtz\nFacebook\nhttps://www.facebook.com/eos.wtz.1\nWechat Public Account:\nEOS WTZ\nReddit\nhttps://www.reddit.com/user/EOSWTZ",
+            "zh_CN": "节点位置\nAmerica\n服务器配置\n主服务器\nIntel Xeon E5-2696 v4 @ 2.20GHz\nCPU：22个vCPU内核\n32GB RAM\nSSD：本地PCIe 3.0\n网络：1000 Mbps\nSSD：2048GB\n\n备份服务器\nIntel Xeon Platinum 8173M @ 2.00GHz\nCPU：28个vCPU内核\n64GB RAM\nSSD：本地PCIe 3.0\n网络：1000 Mbps\nSSD：2048GB\n团队介绍\nEOS WTZ于2017年11月成立。致力建立最有温度的区块链知识传播平台，通过普及区块链基础知识、输出原创内容、打造圈内互动社区、孵化区块链项目等形式，打造国内最有影响力、服务千万人的区块链社群。\n联系方式\nTwitter\nhttps://twitter.com/eos_wtz\nFacebook\nhttps://www.facebook.com/eos.wtz.1\n微信公众号\nEOS WTZ\nReddit\nhttps://www.reddit.com/user/EOSWTZ",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoswtzeoswtz",
+  "public_key": "EOS7temBEsAoxRtUNsy7M6XmZMDuxwKvg8EuBYZ9CMfnaiGDUyHwZ",
+  "website": "http://www.eoswtz.com/",
+  "country": "China",
+  "logo": "logo-eoswtzeoswtz.jpg"
+}

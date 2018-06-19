@@ -1,0 +1,17 @@
+{
+  "name": { "en": "Wancloud",
+            "zh_CN": "Wancloud",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Wancloud is a neutral and innovative Blockchain-as-a-Service platform. We aim to leverage blockchain technology to effectively serve the needs of business and society. Combining blockchain with cloud computing, Wancloud provides community, enterprise users and developers with a suite of blockchain services. Featured by its convenient, flexible and professional service, Wancloud is committed to lowering the cost and threshold of blockchain applications, to the reduction of repetitive workload for clients and to the promotion of blockchain technology adoption.\n\nWe have helped enterprise clients to deploy a wide range of blockchain pilots, such as financial record processing.\n\nAs part of our globalization efforts, we have been deploying servers and nodes globally in regions like Hong Kong, the United States, Singapore, South Korea, and Japan. Each Node Center will be equipped with professional maintenance team to provide responsive and secure service to suit the needs.",
+            "zh_CN": "Wancloud is a neutral and innovative Blockchain-as-a-Service platform. We aim to leverage blockchain technology to effectively serve the needs of business and society. Combining blockchain with cloud computing, Wancloud provides community, enterprise users and developers with a suite of blockchain services. Featured by its convenient, flexible and professional service, Wancloud is committed to lowering the cost and threshold of blockchain applications, to the reduction of repetitive workload for clients and to the promotion of blockchain technology adoption.\n\nWe have helped enterprise clients to deploy a wide range of blockchain pilots, such as financial record processing.\n\nAs part of our globalization efforts, we have been deploying servers and nodes globally in regions like Hong Kong, the United States, Singapore, South Korea, and Japan. Each Node Center will be equipped with professional maintenance team to provide responsive and secure service to suit the needs of blockchain op",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoswancloud1",
+  "public_key": "EOS8Th8M1gWRetXwz4zfcrXp4jnfqTDYFGzUzBpmsBkNFT8p4AN6E",
+  "website": "http://www.wancloud.cloud",
+  "country": "China",
+  "logo": "logo-eoswancloud1.png"
+}

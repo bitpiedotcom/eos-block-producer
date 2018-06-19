@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosxsinanode",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosxsinanode",
+  "public_key": "EOS5LrXg9zKTDydK91G9w9AwmxBDe2TyM6X7Y3W78EbjGmrgkQywJ",
+  "website": "https://eosxsina.com/",
+  "country": "中国",
+  "logo": null
+}

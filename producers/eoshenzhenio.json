@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Shenzhen",
+            "zh_CN": "EOS Shenzhen",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nPrimary: Shenzhen, China\nSecondary: Dongguan and other major city in Zhujiang Delta and Southern China\n\nServer Configuration\nWe plan to upgrade our hardware and bandwidth.\n1. Main position\nBlock producer:\nDouble Xeon, 128 Gb RAM, 512 Gb SSD\nComplete node：\nDouble Xeon, 64 Gb RAM, 512 Gb SSD\nStorage (ipfs)：\nDouble Xeon, 64 Gb RAM, 128 Gb SSD, 40T HDD, 7.2k rpm\n2. Subordinate position\nBlock producer backup\n1. Double Xeon, 128 Gb RAM, 512 Gb SSD, Complete node and storage, (ipfs) backup\n1. Double Xeon, 64 Gb RAM, 128 Gb SSD, 40T HDD, 7.2k rpm\n\nGroup Introduction\nAs one of EOS.io’s first group of node candidates from Shenzhen, we work to build a healthy EOSIO ecological system and Chinese community.\nBelieving that EOS will transform our modern lifestyle, EOShenzhen dedicates itself to the development of EOS cause.\n\nFind us:\nTwitter\nhttps://twitter.com/eostechlover\nTelegram\nhttps://t.me/eoshenzhen",
+            "zh_CN": "节点位置\nPrimary: Shenzhen, China\nSecondary: Dongguan and other major city in Zhujiang Delta and Southern China\n服务器配置\n截至2018年6月3日的技术规格和资源总支出估算\n技术规格\n我们计划升级硬件和带宽\n1、主要位置\n区块生产者主要：\n双Xeon，128 Gb RAM，512 Gb SSD\n完整节点：\n双至强64 Gb RAM，512 Gb SSD\n存储（ipfs）：\n双至强，64 Gb RAM，128 Gb SSD，40T硬盘，7.2k rpm\n\n\n2、次要位置\n区块生产者备份\n1：双Xeon，128 Gb RAM，512 Gb SSD全节点和存储\n（ipfs）备份\n1：双Xeon，64 Gb ram，128 Gb SSD，40T硬盘，7.2k rpm\n\n\n预计2018年6月3日之后的硬件扩展计划\n计划使用：\n1，最安全的互联网数据中心，至少有三个地址\n2，配置更高的硬件，例如2TB RAM\n3，足够的带宽支持，最大的是10gps\n团队介绍\nEOShenzhen作为EOS.io作为第一批来自深圳的节点候选人,我们将以英文和中文的形式与大家沟通。\n我们将继续努力，建立一个健康的EOSIO生态系统和中国社区。\nEOS将深刻的改变我们的现在的生活方式，EOShenzhen将全力以赴到该项事业中。\n\nEOShenzhen为一个稳定的区块链BP的同时，未来将打造利于社区发展的基金及孵化器，致力于将会成为中国最具影响力的BP，也会加强与全球的节点沟通合作。\n我们致力于稳扎稳打的作风、严格高效的技术团队及良性发展的社区运营工作，维护EOSIO稳定运行，维护社区发展，共同打造网络空间新的运作模式。\n联系方式\nTwitter\nhttps://twitter.com/eostechlover\nTelegram\nhttps://t.me/eoshenzhen\n微信公众号\nhttps://mp.weixin.qq.com/mp/profile_ext?actio\nSteemit\nhttps://steemit.com/@eoshenzhen",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoshenzhenio",
+  "public_key": "EOS5WqLGFJK9jPX5d71pYkyQmCv7zJ1Xfv1diqjjzydAJZ4oCMGPi",
+  "website": "https://eoshenzhen.io",
+  "country": "China",
+  "logo": null
+}

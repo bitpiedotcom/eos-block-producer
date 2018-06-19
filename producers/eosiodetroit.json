@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Detroit",
+            "zh_CN": "EOS DEtroit",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Group Introduction\nWe are a community infrastructure company. This means that we build and promote tools that empower individuals in communities to contribute and earn value using distributed applications.\nWe provide the community with a robust BP infrastructure via our bare-metal fleet of nodes. Multiple founders on our team have developed reputation as trustworthy assets in a variety of communities.\nWe are seeking to pilot solutions locally that can be applied globally. The community-led innovation in Detroit's diverse communities is fertile ground for forging a whole new generation of apps designed to provide solutions to some of the more pressing challenges humanity faces, namely access and education.\nFind us on\nTwitter\nhttps://twitter.com/eosiodetroit\nFacebook\nhttps://www.facebook.com/eosiodetroit",
+            "zh_CN": "团队介绍\nEOS Detroit是一家位于密歇根州底特律的基础设施公司，专注于为EOS网络提供资源，这是一种共享的公共数据库即服务。\n\n在EOS主网启动后，我们的团队与全球其他BP候选人参与超级节点的竞选。这代表了一个新互联网的曙光，一个高度可用，值得信赖，审查抵制和分散的互联网。\n\n我们的团队努力获得EOStoken持有者的支持，他们将通过批准投票共同决定我们是否适合作为节点团队被网络雇佣。\n\n在收到他们的支持后，我们的收入将通过EOS网络直接获得，作为区块奖励，并反过来将通过扩展我们的基础架构和团队来引导EOS网络。\n\n除了作为网络基础架构的基石之外，我们的愿景是资助EOS.IO分布式应用程序开发，并通过教育，宣传和推广来发展EOS社区。我们的目标是通过我们为EOS网络和共同利益而努力创造相互价值",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosiodetroit",
+  "public_key": "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
+  "website": "https://eosdetroit.com/",
+  "country": "America",
+  "logo": "logo-eosiodetroit.jpg"
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Amsterdam",
+            "zh_CN": "EOS Amsterdam",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nAmsterdam\nConfiguration of Servers\nAs EOS Amsterdam, we aim to avoid centralization by not using any of the popular cloud hosting platforms in the second stage. In the first stage, when the software only utilizes one CPU core, we will use the Google Cloud Platform to determine future sizing.\nAM3 AMSTERDAM IBX® DATA CENTER\nEquinix International Business Exchange™ (IBX) AM3 hosts Equinix Cloud Exchange and AMS-IX, NL-IX. It connects with Vancis and NIKHEF providing access to hundreds of networks. AM3 is also connected to the Amsterdam South East campus and AM6, AM8 by Metro Connect. It is located 19km from Amsterdam Schiphol Airport in Science Park Amsterdam\nAM7 AMSTERDAM IBX® DATA CENTER\nAM7 interconnects customers to Equinix’s expanding ecosystem of cloud service providers, network carriers, financial service organizations and enterprise customers, providing new business prospects and opportunities. AM7 delivers exceptional energy efficie",
+            "zh_CN": "服务配置\n节点位置\nAmsterdam\n服务器配置\n作为EOS阿姆斯特丹，我们的目标是通过在第二阶段不使用任何流行的云托管平台来避免集中化。在第一阶段，当软件仅使用一个CPU内核时，我们将使用Google Cloud Platform来确定未来的大小。\n\nAM3阿姆斯特丹IBX数据中心：\nEquinix IBX AM3承载Equinix Cloud Exchange和NL-IX的AMS-IX。它与Vancis和NIKHEF连接，提供对数百个网络的访问。AM3还通过Metro Connect与阿姆斯特丹东南校区和AM6，AM8相连。它位于阿姆斯特丹科学园阿姆斯特丹史基浦机场19公里处。\n\nAM7阿姆斯特丹IBX数据中心：\nAM7将客户与Equinix不断扩大的云服务提供商，网络运营商，金融服务机构和企业客户的生态系统相互连接，提供新的业务前景和机会。AM7提供卓越的能源效率，减少对环境的影响并提高运营效率。\n团队介绍\nEOS Amsterdam我们位于阿姆斯特丹，一个拥有受过良好教育，拥有自由和国际化的人口的繁荣城市。\n联系方式\nTwitter\nhttps://twitter.com/eosamsterdam\nTelegram\nhttps://t.me/eosamsterdam\nSteemit\nhttps://steemit.com/@eosamsterdam",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosamsterdam",
+  "public_key": "EOS8HDwgQnKMHAxzva9eyHsPeETv23JSQ6RRzQjJLvCsZ6b1ySgQo",
+  "website": "http://www.eosamsterdam.net/",
+  "country": "Holland",
+  "logo": "logo-eosamsterdam.jpg"
+}

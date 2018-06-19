@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "Aloha EOS",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "alohaeosprod",
+  "public_key": "EOS53pfXfxZ4tH3EGccdnGvBZVJsrcSf2nbCKiLLMphgaii9XxxhM",
+  "website": "https://www.alohaeos.com",
+  "country": "美国",
+  "logo": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSLaoMao",
+            "zh_CN": "EOSLaoMao",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nPrimary Node: Tokyo, Japan\nSecondary Node: Tokyo, Japan\n\nBlockchain producer:\nGoogle Cloud: n1-standard-32, 32 core CPU, 120GB RAM 128GB SSD 20 TB HDD 1G Bandwidth\nComplete node:\nGoogle Cloud: n1-standard-32, 32 core CPU, 120GB RAM 128GB SSD 20 TB HDD 1G Bandwidth\nMemory (ipfs):\nGoogle Cloud: n1-standard-32, 32 core CPU, 120GB RAM 128 GB SSD 100 TB HDD 1G Bandwidth\n\nWe have sufficient budgets to support this project. \n\nThe plan for expanding hardware capacity after 3rd June, 2018:\n1. More backup nodes\n2. Server with higher configuration/RAM\n3. Wider bandwidth\n\nGroup Introduction:\nLaunched by LaoMao, a renowned advocator of blockchain and cooperative partner of INBlockchain, EOSLaoMao aims to become one of the 21 supernodes upon the launch of EOS mainnet in June. Maintaining a fair and stable Eos Block Producer node without considering profits is our only goal.\n\nFind us:\nTelegram\nhttps://t.me/eoslaomao\nSteemit\nhttps://steemit.com/@eoslaomao\nDa",
+            "zh_CN": "节点位置\nPrimary Node: Tokyo, Japan\nSecondary Node: Tokyo, Japan\n服务器配置\n截至2018年6月3日的技术规格和资源总支出估算\n技术规格\n块生产者主要：\nGoogle Cloud：n1-standard-32,32个CPU核心，120GB RAM 128GB SSD 20 TB磁盘1G带宽。\n完整节点：\nGoogle Cloud：n1-standard-32,32个CPU核心，120GB RAM 128GB SSD 20 TB磁盘1G带宽。\n存储（ipfs）：\nGoogle Cloud：n1-standard-32,32个CPU核心，120GB RAM 128 GB SSD 100 TB磁盘1G带宽。\n块生产者备份：\nGoogle Cloud：n1-standard-32,32个CPU核心，120GB RAM 128GB SSD 20 TB磁盘1G带宽。\n完整节点备份：\nGoogle Cloud：n1-standard-32,32个CPU核心，120GB RAM 128GB SSD 20 TB磁盘1G带宽。\n存储（ipfs）备份：\nGoogle Cloud：n1-standard-32,32个CPU核心，120GB RAM 128 GB SSD 100 TB磁盘1G带宽。\n总共花费\n我们对这个项目有足够的预算，我们有过去的各种投资，包括老毛的个人投资。\n\n预计2018年6月3日之后的硬件扩展计划\n计划：\n1.更多的备份节点。\n2.配置更高的服务器，也就是更多的RAM。\n3.更高的带宽。\n团队介绍\n\nEOSLaoMao，由著名区块链倡导者和INBlockchain合作伙伴老猫发起。目标是在EOS主网6月份上线时成为21个超级节点之一。我们唯一的目标是维护一个公平和稳定的Eos Block Producer节点，由于利润不在我们的考虑范围内，因此我们将用它来以多种方式推广EOS，我们位于东京，我们可以使用最好的云服务来运行稳定的节点。\n联系方式\nTelegram\nhttps://t.me/eoslaomao\nSteemit\nhttps://steemit.com/@eoslaomao\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoslaomaocom",
+  "public_key": "EOS8QgURqo875qu3a8vgZ58qBeu2cTehe9zAWRfpdCXAQipicu1Fi",
+  "website": "http://eoslaomao.com/en/",
+  "country": "China",
+  "logo": "logo-eoslaomaocom.jpg"
+}

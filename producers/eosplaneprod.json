@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosplaneprod",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosplaneprod",
+  "public_key": "EOS5suRsaaeWRYa5AzUekguzDtk8wZYR8TvnJCgKkxCabVY7waYb1",
+  "website": "https://eosplane.top",
+  "country": "中国",
+  "logo": null
+}

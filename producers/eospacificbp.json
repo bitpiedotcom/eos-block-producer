@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOS Pacific",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": "EOS Pacific 正式宣布参选EOS BP， EOS Pacific由一家区块链技术公司（Node.pacific）提供支持，总部位于香港，EOS Pacific为EOS的全球合作提供亚太入口，为EOS提供社区一站式服务，包括全球社区的技术与法律服务支持。\n\n我们将提供Amazon的云服务器作为BP节点服务器：\nCPU: AWS EC2 r4.8xlarge, 32-core\nRAM: 244GB\nStorage: 1TB SSD\n以及与之相配套的DDos高防和主备机策略。\n\n团队简介：\nGao Han, CEO，曾在金融服务行业工作超过20年，此前曾与高盛作为自营交易商和中国投资公司（CIC）担任交易主管。\nSam Wang,阿里巴巴个人网盘的网络团队负责人，拥有十年的网站产品架构和开发管理经验。\nRicky Ding，加州大学伯克利分校法学硕士，管理过许多投资基金，在中国大陆和香港资本市场拥有多年经验。\nDr. Jason Wang，弗吉尼亚理工大学土木工程系博士毕业，海洋工程顾问，EOS Pacific北美CEO。\nDr. Victor Wang，普渡大学地球物理和应用数学哲学博士学位和休斯顿大学法学院法学博士学位，北京大学地球物理和数学学士学位，法律顾问\nElliot Ning，在移动技术和物联网方面拥有9年的开发经验，曾经与魅族，Allwinner等一线技术公司任职；\nGarry Guo，作为一个独立的自我媒体，Garry运行一个关于区块链的官方账户，拥有数以万计的追随者。\nNorde Xiao，设计和运营总监，拥有对互联网行业严谨创新和深刻理解的丰富经验。 他在互联网设计和社区运营方面经验丰富。",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eospacificbp",
+  "public_key": "EOS5RVMEH23hYRjhW2VoKNQCM1ooLhVgFpC38e8bWV2YzefyGZbMY",
+  "website": "http://www.nodepacific.com",
+  "country": "中国",
+  "logo": "logo-eospacificbp.png"
+}

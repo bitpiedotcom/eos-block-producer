@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOS Vancouver",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosvancouver",
+  "public_key": "EOS7iENfXSAhKVxbi4cjviazqKYM58vpsPYEkkJHJxabsPiYk1aHs",
+  "website": "http://www.eosvan.io",
+  "country": "加拿大",
+  "logo": null
+}

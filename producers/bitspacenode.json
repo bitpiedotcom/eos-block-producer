@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "bitspacenode",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "bitspacenode",
+  "public_key": "EOS7HvfCTxaL4DwokbZRsbrXXQafzE6wcG38azf6WefKGHBqsE3Ad",
+  "website": "https://eos.bitspace.no",
+  "country": "中国",
+  "logo": null
+}

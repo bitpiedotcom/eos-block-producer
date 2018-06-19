@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eoszonrussia",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoszonrussia",
+  "public_key": "EOS64bByNgmGZrPHzVLqMZteuc4mDkpByY3RukopFhf5ZKKk8eJM7",
+  "website": "http://eoszon.io",
+  "country": "中国",
+  "logo": null
+}

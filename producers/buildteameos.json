@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "BuildTeam",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "buildteameos",
+  "public_key": "EOS69v4LRsujLS4pdJ2rk91gUaiKzWWkHNDBiRqxLAr1snJLM8QXH",
+  "website": "https://buildteam.io/",
+  "country": "未知",
+  "logo": null
+}

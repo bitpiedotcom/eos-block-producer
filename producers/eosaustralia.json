@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosaustralia",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosaustralia",
+  "public_key": "EOS1111111111111111111111111111111114T1Anm",
+  "website": "https://www.genereos-sydney.io/",
+  "country": "中国",
+  "logo": null
+}

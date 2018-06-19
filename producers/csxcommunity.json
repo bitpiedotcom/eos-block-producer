@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOS CSX",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "csxcommunity",
+  "public_key": "EOS8HsrWJ9omjmwt26fieagCM95f2dsT2CyWuFQSFbp4jR7KyrZPF",
+  "website": "https://www.csx.io",
+  "country": "美国",
+  "logo": null
+}

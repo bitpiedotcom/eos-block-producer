@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSYS",
+            "zh_CN": "EOSYS",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Location of Nodes\nSeoul, Tokyo\n\nServer Configuration:\nAWS m4.2xlarge\nCPU: 2.3 GHz Intel Xeon E5-2686 v4/2.4 GHz Intel Xeon E5-2676 v3(Haswell)\n8 Core RAM: 32GB\nSSD: 512GB\nBroadband Speed: 1,000 Mbps\n\nGroup Introduction\nActivate EOS ecological system\n\nFind us: \nTwitter\nhttps://twitter.com/@eosys_io\nTelegram\nhttps://t.me/eosysiokor（KOR）\nMedium\nhttps://medium.com/@eosys\nSteemit\nhttps://steemit.com/@eosys",
+            "zh_CN": "节点位置\nSeoul, Tokyo\n\n服务器配置\nAWS m4.2xlargeCPU：2.3 GHz Intel Xeon E5-2686 v4或2.4 GHz Intel Xeon E5-2676 v3（Haswell），8个核心RAM：32GBSSD：512G​​B网络：1,000 Mbps\n\n团队介绍\n激活EOS生态系统\n联系方式\nTwitter\nhttps://twitter.com/@eosys_io\nTelegram\nhttps://t.me/eosysiokor（KOR）\nMedium\nhttps://medium.com/@eosys\nSteemit\nhttps://steemit.com/@eosys",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosyskoreabp",
+  "public_key": "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
+  "website": "http://eosys.io",
+  "country": "South Korea",
+  "logo": "logo-eosyskoreabp.png"
+}

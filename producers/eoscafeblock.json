@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Cafe",
+            "zh_CN": "EOS Cafe",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Configuration of Servers\nFour nodes consisting of Intel Xeon E7-8880 2.3 GHz, 256GB Producing Nodea\nTechnical Specifications by June 3, 2018:\nPrimary/Secondary Node\nCPU: 2x Intel Xeon E7–8880 2.3 GHz\nCores: 18 x 2 = 36 cores\nThreads: 36 x 2 = 72 threads\nRAM: 256 GB\nStorage: 1 TB SSD\nNetwork: 1 Gbps\nEstimated scaling plan for hardware after June 3, 2018:\nPrimary/Secondary Node:\nCPU: 4x Intel Xeon E7–8880 2.3 GHz\nCores: 18 x 4 = 72 cores\nThreads: 36 x 4 = 144 threads\nRAM: 4 TB\nStorage: 100 TB SSD\nNetwork: 10 Gbps\nOur scaling plan will be continually updating depending on the needs of the EOS.IO blockchain.\n\nGroup Introduction\nEOS Cafe is a decentralized autonomous corporation (DAC) that is owned by and guided by owners of BEANS. Our goal is to harness the power of EOS to provide education, infrastructure and decentralized applications to enrich the global EOS ecosystem.",
+            "zh_CN": "服务器配置\nFour nodes consisting of Intel Xeon E7-8880 2.3 GHz, 256GB Producing Nodea\n\n2018年6月3日前的技术规格：\n主/辅助节点CPU：2x Intel Xeon E7-8880 2.3 GHz核心：18 x 2 = 36个核心线程：36 x 2 = 72个线程RAM：256个GBStorage：1 TB SSD网络：1 Gbps\n\n2018年6月3日之后的硬件估算扩展计划：\n主要/次要节点：CPU：4x Intel Xeon E7-8880 2.3 GHz核心：18 x 4 = 72个核心线程：36 x 4 = 144个线程RAM：4个TBStorage：100 TB SSD网络：10 Gbps\n团队介绍\nEOS Cafe Calgary是加拿大艾伯塔省卡尔加里市的节点竞选的候选团队。它与EOS Cafe DAC合作，推动DAC成员协作Dapp的加速发展，并建立黑客空间（实体咖啡厅），让志同道合的EOS支持者和应用程序开发人员能够在这里共同协作。除了支持EOS Cafe DAC任务之外，EOS Cafe Calgary将继续支持本地聚会（EOS Calgary）和举办黑客马拉松，并作为我们任务的一部分，以支持EOS平台上更受欢迎的Dapps。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoscafeblock",
+  "public_key": "EOS7MAPWVuYcxNtc2n9e6WaEedEZd9thGVHn2Wpu2PoMhNiteTTqL",
+  "website": "https://eos.cafe/",
+  "country": "Canada",
+  "logo": "logo-eoscafeblock.png"
+}

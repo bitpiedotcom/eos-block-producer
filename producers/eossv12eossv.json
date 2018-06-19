@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS Silicon Valley",
+            "zh_CN": "EOS Silicon Valley",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nOregon, USA\nVirginia, USA\nConfiguration of Servers\nHere is the specification of each of our m5.4xlarge：\n* 10GB bps \n* 16 vCPU\n* 64G RAM\n* 512G SSD \nWe will work to enlarge it to: \n* 8,000 vCPU\n* 32T RAM\n* 256T SSD \nGroup Introduction\nProviding world class Silicon Valley talent to oversee, govern and maximize growth to the EOS ecosystem. We act as a leading block producer, staying ahead of the curve and providing infrastructure that scales. Our first step is solidifying a top 21 Block Producer placement and launching the EOS mainnet. Our 2nd step incubating and supporting the decentralized applications for the masses.\nFind us on\nTwitter\nhttps://twitter.com/EOS_SV\nTelegram\nhttps://t.me/eossv\nMedium\nhttps://medium.com/@eossiliconvalley\nSteemit\nhttps://twitter.com/EOS_SV",
+            "zh_CN": "服务配置\n节点位置\nOregon, USA\nVirginia, USA\n服务器配置\n我们的每个m5.4xlarge实例的规格如下所示：\n*高达10GB的网络带宽\n* 16个vCPU\n* 64G RAM\n* 512G SSD存储\n\n在主网启动之前，我们将扩大我们的基础设施，以充分准备好生产。我们现在还没有准确的预测结果，但我们将继续与EOS社区合作来弄清楚。但是，我们计划对基础架构进行压力测试，至少可以在不到半小时的时间内扩展到500 m5.4xlarge的实例（或等同物）。总的来说，这相当于：\n* 8,000个vCPU\n* 32T RAM\n* 256T SSD存储\n* 8,000个vCPU\n* 32T RAM\n* 256T SSD存储\n团队介绍\nEOS Silicon Valley，是位于硅谷的EOS爱好者团队，在技术，产品，营销和运营方面拥有丰富的专业知识。\n\n凭借我们在技术人才以及社区资源和影响力方面的出色表现，我们希望成为21个区块生产商之一，协助在main net中启动EOS，并使分散式应用程序更易于使用和实用！\n联系方式\nTwitter\nhttps://twitter.com/EOS_SV\nTelegram\nhttps://t.me/eossv\nMedium\nhttps://medium.com/@eossiliconvalley\nSteemit\nhttps://twitter.com/EOS_SV",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eossv12eossv",
+  "public_key": "EOS7fv6nadePJBdCiWyR2Ldz5YWyzJGMBkEo47zUSWFttduQhHHaa",
+  "website": "http://www.eossv.io/",
+  "country": "America",
+  "logo": "logo-eossv12eossv.jpg"
+}

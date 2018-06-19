@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOSSw Eden",
+            "zh_CN": "EOSSw Eden",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nSweden (3 different cities at launch)\n\nconfiguration of servers\nblock producer:\nMain: Dual Xeon，128 Gb ram（can be upgraded to 2 Tb），512 Gb SSD \nBack up＃1: Dual Xeon，128 Gb ram（can be upgraded to 2 Tb），512 Gb SSD \n\nwhole nodes：\nMain: Dual Xeon，128 Gb ram（can be upgraded to 2 Tb），512 Gb SSD \n\n\nipfs：\nMain：Dual Xeon，32 Gb RAM（can be upgraded to 1 Tb），500 Gb 10k rpm（cache drive），10 Tb 7.2k rpm \n\ncombined nodes and ipfs：\nsecond：Dual Xeon，32 Gb RAM（can be upgraded to 1 Tb），256 Gb 10k rpm（cache drive），10 Tb 7.2k rpm \nthird：<same as above>\n\nGroup introduction\nSuper nodes candidate team from Sweden, has great honesty and understanding for technology.\nFind us on\nTwitter\nhttps://www.twitter.com/eossweden\nSteemit\nhttps://steemit.com/@xebb",
+            "zh_CN": "服务配置\n节点位置\nSweden (3 different cities at launch)\n服务器配置\n区块生产者：\n主要：Dual Xeon，128 Gb ram（可升级至2 Tb），512 Gb SSD \n备份＃1：<与上述相同> \n\n完整节点：\n主要：双Xeon，64 Gb ram（可升级至2 Tb），512 Gb SSD \n（未来这台机器可能需要保持与生产者相同的内存量，以确保他们能够及时验证所有块）。\n\n存储（ipfs）：\n主要：Dual Xeon，32 Gb RAM（可升级至1 Tb），突击500 Gb 10k rpm（缓存驱动器），10 Tb 7.2k rpm \n\n组合完整节点和存储：\n其次：Dual Xeon，32 Gb RAM（可升级至1 Tb），突击256 Gb 10k rpm（缓存驱动器），10 Tb 7.2k rpm \n第三级：<与上述相同>\n团队介绍\n来自瑞典的超级节点候选团队，具有高度的诚信和对科技的很好的理解。\n联系方式\nTwitter\nhttps://www.twitter.com/eossweden\nSteemit\nhttps://steemit.com/@xebb\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosswedenorg",
+  "public_key": "EOS7SGSBsWhSob6TEric6u3TGodcc1uXFcqSrquJ3Etuqcbb3VnNY",
+  "website": "http://eosio.se/",
+  "country": "Sweden",
+  "logo": "logo-eosswedenorg.jpg"
+}

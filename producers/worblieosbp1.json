@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "Worbli",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "worblieosbp1",
+  "public_key": "EOS8PYEWNe5VYEnka43KzbGF12iSmhdfK9pAoyikZid63JXuTP985",
+  "website": "https://eos.worbli.io",
+  "country": "美国",
+  "logo": null
+}

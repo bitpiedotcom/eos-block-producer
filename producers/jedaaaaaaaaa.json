@@ -1,0 +1,17 @@
+{
+  "name": { "en": "JEDA",
+            "zh_CN": "JEDA",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nTokyo, Japan\nConfiguration of Servers\n* AWS EC2 m4.4xlarge \n* 64GB RAM \n* 512GB SSD \nGroup Introduction\nJEDA(Japan EOS Developer Association) which establish in Tokyo Japan 2018, found by the professor of Tokyo University, scholar, cryptocurrency exchange and block-chain related agency. Committed to supporting and building the ecological system of EOS in Japan. Assist DAPP project development and provide other EOS-based services. JEDA has already participated in the election of the EOS Block Producer. We hope to get the vote support from EOS holders and jointly promote the ecological construction of EOS with fellow global enthusiast.\n\nJEDA will provide the below support:\nPROMOTE PREFERENTIAL USE OF RESOURCES.\nMEET UP AND OFF-LINE EVENT PRIORITY PARTICIPATE RIGHTS.\nDAPP APPLICATION PRIORITY TRIAL RIGHTS.\nOTHER RIGHTS OF KNOWING EOS CONSTRUCTION PLAN IN ADVANCE.\nFind us on\nTwitter\nhttps://twitter.com/eosjapan_jeda\nTelegram\nhttp:/",
+            "zh_CN": "节点位置\nTokyo, Japan\n服务器配置\n截至2018年6月3日的技术规格和资源总支出估算\n* AWS EC2 m4.4xlarge \n* 64GB RAM \n* 512GB SSD \n缩放计划：\n逐渐移动到裸机服务器。\n使用2-4 TB RAM和100G带宽支持升级至两台服务器。\n一个用于生产PB，一个用于备份。\n团队介绍\nJEDA是EOS开发者协会，支持日本EOS生态系统的开发。在EOS上建立一个生态系统，提出线上和线下活动，收集EOS开发者并开发有吸引力的DAPP，并开发基于EOS的多种服务。\n\n在EOS上建立一个生态系统，提出线上和线下活动，收集EOS开发者并开发有吸引力的DAPP，并开发基于EOS的多种服务。\n联系方式\nTwitter\nhttps://twitter.com/eosjapan_jeda\nTelegram\nhttp://t.me/eosjapan\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "jedaaaaaaaaa",
+  "public_key": "EOS5XP49jx9eJNQZjqvP7pfKNaAe5JmyAbPZMdsiqD61QQEExqUYe",
+  "website": "http://www.eosjapan.org/",
+  "country": "Japan",
+  "logo": "logo-jedaaaaaaaaa.jpg"
+}

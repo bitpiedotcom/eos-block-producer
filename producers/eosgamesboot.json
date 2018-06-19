@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eosgamesboot",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosgamesboot",
+  "public_key": "EOS5SezwGS6sMZY79KwJYxFXRKVd7idwXBcrBy8wqD75vWvkfB15C",
+  "website": "http://eos.games",
+  "country": "中国",
+  "logo": null
+}

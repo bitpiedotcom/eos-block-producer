@@ -1,0 +1,17 @@
+{
+  "name": { "en": "TOP.ONE",
+            "zh_CN": "TOP.ONE",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Server Configuration\nCPU:BP server(1 livenet, 1 back up):16 core\nRAM:128 GB DDR3 RECC;\nSTORAGE:1 internal TB PCIe SSD,5个 external 2.0 TB Intel P3700 PCIe\nInternet:1 Gbpskup\n\nWe are an all-language incubation digital currency exchange, TOP. ONE welcomes you to share opinions in the community.",
+            "zh_CN": "服务器配置\nCPU：BP服务器（1个livenet，1个备用）：16个内核\n内存：128 GB DDR3 RECC;\n存储：1个内部1 TB PCIe SSD，5个外部2.0 TB Intel P3700 PCIe\n网络：1 Gbpskup\n\n我们是一家全语种孵化交换平台TOP.ONE，TOP. ONE很高兴你们来社区分享交流意见。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "top111111111",
+  "public_key": "EOS4yetL39jMqJpuVrnmuhRsFNnhzXWNZSJT2HqdsDdsqS7dB1AQE",
+  "website": "https://top.one",
+  "country": "BVI",
+  "logo": "logo-top111111111.png"
+}

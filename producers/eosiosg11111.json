@@ -1,0 +1,17 @@
+{
+  "name": { "en": "eosio.sg",
+            "zh_CN": "eosio.sg",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Server Configuration\nUse cloud server and operate two nodes in it,one for real-time network, and one for test network.\neosio.sg is an EOS block producer candidate from Singapore, and it‘s dedicated to research the underlying kernel technologies and build reliable and active EOS platform and dAPPs.\n\nTeam members are all from world-class universities and top Finance/Internet companies, having solid skills in product design, product operation and EOS kernel code research.\n\neosio.sg was founded in April, 2018 and has achieve rapid progress in the code research and community contribution.\n\nWe launched our test net (eosio.sg) in the first week of we were founded and the test net supports one click connection;\n\nIn the second week, we managed to meet all critirea and became BP candidate;\n\nIn the third week, we built our tech blog on steemit and medium to share our thoughts on the kernel code research, getting positive response in the community.\n\nNow, eosio.sg is working closely w",
+            "zh_CN": "服务器配置\n使用云服务器并在其上运行两个节点，一个用于实时网络，另一个用于测试网络。\n\n团队介绍\neosio.sg来自新加坡，是EOS全球超级节点竞选团队，致力于区块链底层技术研发，发展和构建安全、健康、活跃的EOS生态平台与应用。\n团队成员均来自世界级名校和互联网、金融、科研等行业的顶级公司，拥有扎实的产品设计、开发和运营经验以及扎实的EOS底层代码研究能力。\n团队在2018年4月成立以来，在技术理解上获得了迅速的积累，并积极为EOS社区生态的活跃作出贡献。\n团队在成立第一周，发布了eosio.sg Testnet并率先实现了一键接入等功能；\n团队成立第二周，在尚未提交节点申请的情况下，提前获邀成为正式的超级节点候选人，并分配在Group1；\n团队成立第三周，开始凭借对底层代码的深刻理解建立了技术博客，并获得了Daniel Larimer、Thomas Cox等官方人物的关注与互动。\n目前，eosio.sg正与其他优秀的团队一起，积极探索和开发新的EOS功能与应用。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosiosg11111",
+  "public_key": "EOS7zVBQMhV7dZ5zRQwBgDmmbFCHA6YcmwW6Dq5CePGpqLR1ZsVAc",
+  "website": "http://eosio.sg/",
+  "country": "Singapore",
+  "logo": "logo-eosiosg11111.jpg"
+}

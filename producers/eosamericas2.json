@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "EOSAmericas",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eosamericas2",
+  "public_key": "EOS76jasQrUqZ56mkmERw9mZy6UfXcJ8oX5m3FYsHLcJbkhqkKDD7",
+  "website": "http://www.eosamericas.com",
+  "country": "美国",
+  "logo": null
+}

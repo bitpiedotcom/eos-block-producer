@@ -1,0 +1,17 @@
+{
+  "name": { "en": "EOS.MediShares",
+            "zh_CN": "EOS.MediShares",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nSingapore\nConfiguration of Servers\nTestnet Server\nBefore Jun 3\n1 x Cloud Node（Microsoft Azure D13 V2)\nCPU: 8 vCPU Cores\nRAM: 56GB\nNetwork: 1000Mbps\nStorage: Local SSD 400GB, Managed OS Disk 1TB\nMainnet Server\nAfter Jun 3\n1 x Cloud Node (Microsoft Azure E64 V3)\nCPU: 64 vCPU Cores\nRAM: 1TB\nNetwork - 30Gbps\nStorage: Local SSD 1.6TB, Managed OS Disk 2TB\nBackup Server\nAfter Jun 3\n1 x Cloud Node (Microsoft Azure E64 V3)\nCPU: 64 vCPU Cores\nRAM: 432GB\nNetwork - 30Gbps\nStorage: Local SSD 1.6TB, Managed OS Disk 2TB\nGroup Introduction\nWe are dedicated to bringing EOS to the masses. The best way to achieve widespread adoption is through useful, fun, and well-designed products that showcase the best of the EOS platform. And also build and share our tools with the EOS developer community.\nFind us on\nTelegram\nhttps://t.me/eosmedishares\nSteemit\nhttps://steemit.com/@ericfish",
+            "zh_CN": "服务配置\n节点位置\nSingapore\n服务器配置\nTestnet服务器（6月3日前）\n1个云节点（Microsoft Azure D13 V2）\nCPU：8个vCPU内核\n内存：56GB \n网络：1000Mbps \n存储：本地SSD 400GB，托管OS磁盘1TB \n\nMainnet Server（6月3日以后）\n1个云节点（Microsoft Azure E64 V3）\nCPU：64个vCPU内核\n内存：432GB \n网络- 30Gbps \n存储：本地SSD 1.6TB，托管OS磁盘2TB \n\n备份服务器（6月3日以后）\n1个云节点（Microsoft Azure E64 V3）\nCPU：64个vCPU内核\n内存：432GB \n网络- 30Gbps \n存储：本地SSD 1.6TB，托管OS磁盘2TB\n团队介绍\n我们致力于将EOS带给大众，实现广泛采用的最佳方式是通过有用的，有趣的和精心设计的产品来展示EOS平台的最佳功能。还可以与EOS开发人员社区共享我们的工具。\n联系方式\nTelegram\nhttps://t.me/eosmedishares\nSteemit\nhttps://steemit.com/@ericfish",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "ha4daobxg4ge",
+  "public_key": "EOS5ewbBCj3ZrAy5yJnCqBM6Y6X9nCLzJ4DR8rphbqMhapeT3S5eJ",
+  "website": "http://eos.medishares.org/",
+  "country": "Singapore",
+  "logo": "logo-ha4daobxg4ge.png"
+}

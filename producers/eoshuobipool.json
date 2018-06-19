@@ -1,0 +1,17 @@
+{
+  "name": { "en": "huobi global",
+            "zh_CN": "huobi global",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Configuration of Servers\nRAM: 64GB\nCPU:8 core\nSSD: 2TB\nOne server for testing:\nRAM: 8GB\nCPU:4 core\nSSD: 100GB\nGroup Introduction\nHuobi global is committed to providing convenient and secure service to users.",
+            "zh_CN": "服务器配置\n用于主服务器的裸机，用于测试云。首先，我们将部署3台物理服务器，2台负载均衡服务器和1台备用服务器，内存：64GB，CPU：8个内核，存储磁盘空间：2TB。我们有1个服务器进行测试，内存：8GB，CPU：4核，存储磁盘空间：100GB。\n团队介绍\n火币资产平台，致力于为用户提供方便安全的服务。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoshuobipool",
+  "public_key": "EOS5XKswW26cR5VQeDGwgNb5aixv1AMcKkdDNrC59KzNSBfnH6TR7",
+  "website": "http://www.eoshuobipool.com/",
+  "country": "China",
+  "logo": "logo-eoshuobipool.png"
+}

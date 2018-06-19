@@ -1,0 +1,17 @@
+{
+  "name": { "en": "OracleChain",
+            "zh_CN": "OracleChain",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": "Service configuration\nLocation of nodes\nChina, Hong Kong, Japan, Canada\nConfiguration of Servers\nPlan after 3rd June 2018(1 mainframe and 1 backup):\nx1.32xlarge / 128core/ 1952GiB Meory / 50TBSSD\n4 * Intel Xeon CPU E7-4820 v4 2.00 GHz / 10C / 25M / 115W CPU\n8 * 12 DIMM SSD;\n64 * 32GB / DDR4 / 2400MHz / ECC / REG / 2RANK RAM;\n24 * 3.5 SAS3.0 / SATA3.0 Drive;\n14 * Intel / SSD / DC / S4500（3.8TB，2.5 inch SATA 6Gb / s，3D Nand and TLC）;\nSupport 4 * X16 + 4 * X8;\n2 + 2 920W RPS;\n2 *standard network ports\n\n\n\n\nGroup Introduction\nAs the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios, thereby delving into this immense tens billion dollars valuation market.\nAs a decentralized Oracle technology platform based on the EOS platform, the autonomous Proof-of-Reputation & Deposit mechanism is adopted and used as a",
+            "zh_CN": "服务配置\n节点位置\nChina, Hong Kong, Japan, Canada\n服务器配置\n2018年6月3日后，我们将采用与实际有效负载相符的云机，典型的扩展方案为（1主机，1备用）：\nx1.32xlarge / 128核/ 1952GiB Meory / 50TBSSD（我们以AWS云服务器为例，实际上也可以使用其他云主机服务或IDC服务器。）\n我们还准备了一台物理机（IDC）计划，就像（1个主机，1个备用）一样：\n4 * Intel Xeon处理器E7-4820 v4 2.00 GHz / 10C / 25M / 115W处理器;\n8 * 12 DIMM内存板;\n64 * 32GB / DDR4 / 2400MHz / ECC / REG / 2RANK内存;\n24 * 3.5 SAS3.0 / SATA3.0驱动器背板;\n14 * Intel / SSD / DC / S4500系列（3.8TB，2.5英寸SATA 6Gb / s，3D Nand和TLC）;\n支持4 * X16 + 4 * X8;\n2 + 2 920W冗余电源;\n2 *标准千兆网络接口。\n\n团队介绍\n作为世界上第一个建立在EOS生态圈上的应用程序，Oracle Chain基于EOS区块链技术，为区块链提供实际数据和交叉链数据。我们还在区块链上实现了数据服务提供商和数据使用者之间的有效连接。作为EOS Oracle机器和其他基础架构的构建者，同时我们也是节点竞选候选者之一。\n\n产品介绍：\n作为基于EOS的科技技术，OracleChain采用了自动PoRD机制，将实际数据带入区块链区域，并将其用作为其他区块链应用程序提供服务的基础架构。另外，我们还开发了当前在EOS网络上运行的全球首个相关资产应用程序PocketEOS。它将与EOS上众多的Dapp应用程序接口，允许用户直接进入区块链3.0时代。\n数据来源：EOS小助手小程序",
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "oraclegogogo",
+  "public_key": "EOS67BuVBFqC9wWw8NaDg7JZ3FseSg55Rvwh6NJQUehBhmEsHfmLh",
+  "website": "https://oraclechain.io/",
+  "country": "China",
+  "logo": "logo-oraclegogogo.png"
+}

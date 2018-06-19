@@ -1,0 +1,17 @@
+{
+  "name": { "en": null,
+            "zh_CN": "eoscocoshost",
+            "zh_TW": null,
+            "ja": null
+          },
+  "info": { "en": null,
+            "zh_CN": null,
+            "zh_TW": null,
+            "ja": null
+          },
+  "account": "eoscocoshost",
+  "public_key": "EOS6f1JapkWZAkzGZuwrEfWEvMFvj8Uz8DeeE9wsrXCobWa5SQejv",
+  "website": "http://www.cocosbcx.io/",
+  "country": "中国",
+  "logo": null
+}
